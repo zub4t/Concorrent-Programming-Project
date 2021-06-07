@@ -1,0 +1,2604 @@
+Done: 0 transfers in 138 ms (0.00 transfers/s)
+12 visits left
+4 visits done
+Done: 2 transfers in 150 ms (13.33 transfers/s)
+15 visits left
+4 visits done
+T0 http://localhost:8123
+T1 http://localhost:8123/
+Done: 1 transfers in 203 ms (4.93 transfers/s)
+134 visits left
+6 visits done
+T3 http://localhost:8123/allclasses-noframe.html
+Done: 3 transfers in 207 ms (14.49 transfers/s)
+133 visits left
+7 visits done
+T2 http://localhost:8123/allclasses-frame.html
+Done: 5 transfers in 50 ms (100.00 transfers/s)
+136 visits left
+8 visits done
+T1 http://localhost:8123/deprecated-list.html
+Done: 4 transfers in 58 ms (68.97 transfers/s)
+136 visits left
+9 visits done
+T0 http://localhost:8123/constant-values.html
+Done: 8 transfers in 24 ms (333.33 transfers/s)
+153 visits left
+10 visits done
+T1 http://localhost:8123/org
+Done: 9 transfers in 16 ms (562.50 transfers/s)
+152 visits left
+11 visits done
+T0 http://localhost:8123/overview-frame.html
+Done: 6 transfers in 61 ms (98.36 transfers/s)
+153 visits left
+12 visits done
+T3 http://localhost:8123/help-doc.html
+Done: 10 transfers in 111 ms (90.09 transfers/s)
+167 visits left
+15 visits done
+T1 http://localhost:8123/overview-summary.html
+Done: 14 transfers in 72 ms (194.44 transfers/s)
+166 visits left
+16 visits done
+T3 http://localhost:8123/serialized-form.html
+Done: 11 transfers in 129 ms (85.27 transfers/s)
+180 visits left
+18 visits done
+T0 http://localhost:8123/overview-tree.html
+Done: 16 transfers in 21 ms (761.90 transfers/s)
+182 visits left
+19 visits done
+T3 http://localhost:8123/
+Done: 17 transfers in 50 ms (340.00 transfers/s)
+182 visits left
+20 visits done
+T1 http://localhost:8123/allclasses-frame.html
+Done: 18 transfers in 47 ms (382.98 transfers/s)
+182 visits left
+21 visits done
+T0 http://localhost:8123/allclasses-noframe.html
+Done: 19 transfers in 62 ms (306.45 transfers/s)
+183 visits left
+22 visits done
+T3 http://localhost:8123/org/cooperari/core/ACustomYieldPoint.html
+Done: 7 transfers in 266 ms (26.32 transfers/s)
+183 visits left
+23 visits done
+T2 http://localhost:8123/index-all.html
+Done: 20 transfers in 68 ms (294.12 transfers/s)
+183 visits left
+24 visits done
+T1 http://localhost:8123/org/cooperari/core/aspectj/AgentFacade.html
+Done: 21 transfers in 67 ms (313.43 transfers/s)
+183 visits left
+25 visits done
+T0 http://localhost:8123/org/cooperari/core/util/AgentLoader.html
+Done: 22 transfers in 65 ms (338.46 transfers/s)
+184 visits left
+26 visits done
+T3 http://localhost:8123/org/cooperari/core/aspectj/AgentMessageHandler.html
+Done: 23 transfers in 70 ms (328.57 transfers/s)
+185 visits left
+27 visits done
+T2 http://localhost:8123/org/cooperari/core/aspectj/AspectCompiler.html
+Done: 24 transfers in 64 ms (375.00 transfers/s)
+185 visits left
+28 visits done
+T1 http://localhost:8123/org/cooperari/core/aspectj/CAgent.html
+Done: 25 transfers in 63 ms (396.83 transfers/s)
+186 visits left
+29 visits done
+T0 http://localhost:8123/org/cooperari/feature/CAllFeatures.html
+Done: 26 transfers in 64 ms (406.25 transfers/s)
+188 visits left
+30 visits done
+T3 http://localhost:8123/org/cooperari/config/CAlways.html
+Done: 27 transfers in 64 ms (421.88 transfers/s)
+189 visits left
+31 visits done
+T2 http://localhost:8123/org/cooperari/CArray.html
+Done: 29 transfers in 45 ms (644.44 transfers/s)
+189 visits left
+32 visits done
+T0 http://localhost:8123/org/cooperari/config/CBaseConfiguration.html
+Done: 28 transfers in 53 ms (528.30 transfers/s)
+190 visits left
+33 visits done
+T1 http://localhost:8123/org/cooperari/feature/atomic/CAtomicObjectsFeature.html
+Done: 30 transfers in 70 ms (428.57 transfers/s)
+191 visits left
+34 visits done
+T3 http://localhost:8123/org/cooperari/core/CBlockingOperationEvent.html
+Done: 34 transfers in 10 ms (3400.00 transfers/s)
+192 visits left
+35 visits done
+T3 http://localhost:8123/org/cooperari/junit/CCooperativeOnly.html
+Done: 32 transfers in 71 ms (450.70 transfers/s)
+193 visits left
+36 visits done
+T0 http://localhost:8123/org/cooperari/core/CConfiguration.html
+Done: 31 transfers in 78 ms (397.44 transfers/s)
+194 visits left
+37 visits done
+T2 http://localhost:8123/org/cooperari/errors/CCheckedExceptionError.html
+Done: 33 transfers in 76 ms (434.21 transfers/s)
+194 visits left
+38 visits done
+T1 http://localhost:8123/org/cooperari/errors/CConfigurationError.html
+Done: 35 transfers in 57 ms (614.04 transfers/s)
+196 visits left
+39 visits done
+T3 http://localhost:8123/org/cooperari/CCoverage.html
+Done: 39 transfers in 12 ms (3250.00 transfers/s)
+197 visits left
+40 visits done
+T3 http://localhost:8123/org/cooperari/config/CDetectResourceDeadlocks.html
+Done: 36 transfers in 65 ms (553.85 transfers/s)
+198 visits left
+41 visits done
+T0 http://localhost:8123/org/cooperari/core/CCoverageLog.html
+Done: 37 transfers in 64 ms (578.13 transfers/s)
+199 visits left
+42 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/CDataAccessFeature.html
+Done: 38 transfers in 61 ms (622.95 transfers/s)
+201 visits left
+43 visits done
+T1 http://localhost:8123/org/cooperari/errors/CDeadlockError.html
+Done: 43 transfers in 40 ms (1075.00 transfers/s)
+202 visits left
+44 visits done
+T1 http://localhost:8123/org/cooperari/config/CGenerateCoverageReports.html
+Done: 42 transfers in 47 ms (893.62 transfers/s)
+203 visits left
+45 visits done
+T2 http://localhost:8123/org/cooperari/feature/CFeature.html
+Done: 41 transfers in 52 ms (788.46 transfers/s)
+204 visits left
+46 visits done
+T0 http://localhost:8123/org/cooperari/errors/CError.html
+Done: 40 transfers in 78 ms (512.82 transfers/s)
+204 visits left
+47 visits done
+T3 http://localhost:8123/org/cooperari/core/CEngine.html
+Done: 45 transfers in 62 ms (725.81 transfers/s)
+204 visits left
+48 visits done
+T2 http://localhost:8123/org/cooperari/errors/CHotspotError.html
+Done: 44 transfers in 66 ms (666.67 transfers/s)
+205 visits left
+49 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/CGroupProgramState.html
+Done: 47 transfers in 54 ms (870.37 transfers/s)
+206 visits left
+50 visits done
+T3 http://localhost:8123/org/cooperari/config/CInstrument.html
+Done: 46 transfers in 70 ms (657.14 transfers/s)
+206 visits left
+51 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots/CHotspotFeature.html
+Done: 49 transfers in 44 ms (1113.64 transfers/s)
+207 visits left
+52 visits done
+T1 http://localhost:8123/org/cooperari/junit/CJUnitRunner.html
+Done: 48 transfers in 52 ms (923.08 transfers/s)
+208 visits left
+53 visits done
+T2 http://localhost:8123/org/cooperari/errors/CInternalError.html
+Done: 50 transfers in 61 ms (819.67 transfers/s)
+210 visits left
+54 visits done
+T3 http://localhost:8123/org/cooperari/core/util/CLog.html
+Done: 51 transfers in 55 ms (927.27 transfers/s)
+210 visits left
+55 visits done
+T0 http://localhost:8123/org/cooperari/core/util/CLog.Option.html
+Done: 52 transfers in 54 ms (962.96 transfers/s)
+212 visits left
+56 visits done
+T1 http://localhost:8123/org/cooperari/config/CMaxTrials.html
+Done: 53 transfers in 61 ms (868.85 transfers/s)
+213 visits left
+57 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/CMonitorFeature.html
+Done: 54 transfers in 61 ms (885.25 transfers/s)
+215 visits left
+58 visits done
+T3 http://localhost:8123/org/cooperari/errors/CMultipleExceptionsError.html
+Done: 55 transfers in 62 ms (887.10 transfers/s)
+215 visits left
+59 visits done
+T0 http://localhost:8123/org/cooperari/config/CNever.html
+Done: 56 transfers in 54 ms (1037.04 transfers/s)
+215 visits left
+60 visits done
+T1 http://localhost:8123/org/cooperari/errors/CNonCooperativeModeError.html
+Done: 57 transfers in 52 ms (1096.15 transfers/s)
+216 visits left
+61 visits done
+T2 http://localhost:8123/org/cooperari/core/COperation.html
+Done: 58 transfers in 46 ms (1260.87 transfers/s)
+217 visits left
+62 visits done
+T3 http://localhost:8123/org/cooperari/junit/CPreemptiveOnly.html
+Done: 59 transfers in 50 ms (1180.00 transfers/s)
+218 visits left
+63 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/CProgramState.html
+Done: 60 transfers in 51 ms (1176.47 transfers/s)
+219 visits left
+64 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/CProgramState.CElement.html
+Done: 61 transfers in 54 ms (1129.63 transfers/s)
+220 visits left
+65 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/CProgramStateFactory.html
+Done: 62 transfers in 41 ms (1512.20 transfers/s)
+222 visits left
+66 visits done
+T3 http://localhost:8123/org/cooperari/config/CRaceDetection.html
+Done: 63 transfers in 52 ms (1211.54 transfers/s)
+222 visits left
+67 visits done
+T0 http://localhost:8123/org/cooperari/errors/CRaceError.html
+Done: 64 transfers in 53 ms (1207.55 transfers/s)
+222 visits left
+68 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/CRawProgramState.html
+Done: 65 transfers in 50 ms (1300.00 transfers/s)
+223 visits left
+69 visits done
+T2 http://localhost:8123/org/cooperari/core/util/CRawTuple.html
+Done: 66 transfers in 51 ms (1294.12 transfers/s)
+223 visits left
+70 visits done
+T3 http://localhost:8123/org/cooperari/core/util/CReport.html
+Done: 67 transfers in 54 ms (1240.74 transfers/s)
+224 visits left
+71 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/CResourceDeadlockError.html
+Done: 68 transfers in 62 ms (1096.77 transfers/s)
+225 visits left
+72 visits done
+T1 http://localhost:8123/org/cooperari/core/CRuntime.html
+Done: 69 transfers in 59 ms (1169.49 transfers/s)
+226 visits left
+73 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/CScheduler.html
+Done: 70 transfers in 60 ms (1166.67 transfers/s)
+226 visits left
+74 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/CSchedulerFactory.html
+Done: 71 transfers in 52 ms (1365.38 transfers/s)
+228 visits left
+75 visits done
+T0 http://localhost:8123/org/cooperari/config/CScheduling.html
+Done: 72 transfers in 59 ms (1220.34 transfers/s)
+229 visits left
+76 visits done
+T1 http://localhost:8123/org/cooperari/core/CSession.html
+Done: 73 transfers in 54 ms (1351.85 transfers/s)
+229 visits left
+77 visits done
+T2 http://localhost:8123/org/cooperari/core/CSession.ExecutionHandler.html
+Done: 74 transfers in 57 ms (1298.25 transfers/s)
+229 visits left
+78 visits done
+T3 http://localhost:8123/org/cooperari/config/CSometimes.html
+Done: 75 transfers in 62 ms (1209.68 transfers/s)
+230 visits left
+79 visits done
+T0 http://localhost:8123/org/cooperari/feature/unsafe/CSunMiscUnsafeFeature.html
+Done: 77 transfers in 57 ms (1350.88 transfers/s)
+232 visits left
+80 visits done
+T2 http://localhost:8123/org/cooperari/CTest.html
+Done: 76 transfers in 65 ms (1169.23 transfers/s)
+232 visits left
+81 visits done
+T1 http://localhost:8123/org/cooperari/CSystem.html
+Done: 78 transfers in 67 ms (1164.18 transfers/s)
+232 visits left
+82 visits done
+T3 http://localhost:8123/org/cooperari/CTestResult.html
+Done: 82 transfers in 8 ms (10250.00 transfers/s)
+234 visits left
+83 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/CThreadHandle.html
+Done: 79 transfers in 61 ms (1295.08 transfers/s)
+235 visits left
+84 visits done
+T0 http://localhost:8123/org/cooperari/junit/CTestResultPool.html
+Done: 81 transfers in 51 ms (1588.24 transfers/s)
+236 visits left
+85 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/CThreadFeature.html
+Done: 83 transfers in 48 ms (1729.17 transfers/s)
+237 visits left
+86 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/CThreadLocation.html
+Done: 84 transfers in 49 ms (1714.29 transfers/s)
+239 visits left
+87 visits done
+T0 http://localhost:8123/org/cooperari/core/CThreadMappings.html
+Done: 80 transfers in 89 ms (898.88 transfers/s)
+239 visits left
+88 visits done
+T2 http://localhost:8123/org/cooperari/core/CThread.html
+Done: 85 transfers in 43 ms (1976.74 transfers/s)
+240 visits left
+89 visits done
+T1 http://localhost:8123/org/cooperari/feature/threadrunner/CThreadRunnerFeature.html
+Done: 86 transfers in 46 ms (1869.57 transfers/s)
+241 visits left
+90 visits done
+T3 http://localhost:8123/org/cooperari/core/CThreadState.html
+Done: 87 transfers in 42 ms (2071.43 transfers/s)
+242 visits left
+91 visits done
+T0 http://localhost:8123/org/cooperari/config/CTimeLimit.html
+Done: 88 transfers in 48 ms (1833.33 transfers/s)
+243 visits left
+92 visits done
+T2 http://localhost:8123/org/cooperari/core/CTrace.html
+Done: 89 transfers in 41 ms (2170.73 transfers/s)
+244 visits left
+93 visits done
+T1 http://localhost:8123/org/cooperari/core/CTrace.EventType.html
+Done: 90 transfers in 37 ms (2432.43 transfers/s)
+244 visits left
+94 visits done
+T3 http://localhost:8123/org/cooperari/config/CTraceOptions.html
+Done: 91 transfers in 42 ms (2166.67 transfers/s)
+245 visits left
+95 visits done
+T0 http://localhost:8123/org/cooperari/core/CUncaughtExceptionHandler.html
+Done: 92 transfers in 42 ms (2190.48 transfers/s)
+246 visits left
+96 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/CurrentThread.html
+Done: 93 transfers in 92 ms (1010.87 transfers/s)
+247 visits left
+97 visits done
+T1 http://localhost:8123/org/cooperari/core/CustomYieldPoint.html
+Done: 94 transfers in 79 ms (1189.87 transfers/s)
+248 visits left
+97 visits done
+T3 http://localhost:8123/org/cooperari/core/CustomYieldPointOperation.html
+Done: 95 transfers in 74 ms (1283.78 transfers/s)
+249 visits left
+98 visits done
+T0 http://localhost:8123/org/cooperari/CVersion.html
+Done: 96 transfers in 79 ms (1215.19 transfers/s)
+249 visits left
+99 visits done
+T2 http://localhost:8123/org/cooperari/errors/CWaitDeadlockError.html
+Done: 98 transfers in 71 ms (1380.28 transfers/s)
+251 visits left
+101 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/CYieldPoint.html
+Done: 97 transfers in 81 ms (1197.53 transfers/s)
+252 visits left
+102 visits done
+T1 http://localhost:8123/org/cooperari/core/CWorkspace.html
+Done: 100 transfers in 91 ms (1098.90 transfers/s)
+252 visits left
+103 visits done
+T3 http://localhost:8123/org/cooperari/core/CWorkspace.Option.html
+Done: 99 transfers in 72 ms (1375.00 transfers/s)
+252 visits left
+104 visits done
+T2 http://localhost:8123/org/cooperari/core/CYieldPointImpl.html
+Done: 102 transfers in 41 ms (2487.80 transfers/s)
+Done: 101 transfers in 46 ms (2195.65 transfers/s)
+256 visits left
+256 visits left
+105 visits done
+105 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/DeadlockDetector.html
+T0 http://localhost:8123/org/cooperari/feature/data/DataOperation.html
+Done: 103 transfers in 41 ms (2512.20 transfers/s)
+256 visits left
+107 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/Enter.html
+Done: 104 transfers in 39 ms (2666.67 transfers/s)
+256 visits left
+108 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/Exit.html
+Done: 105 transfers in 35 ms (3000.00 transfers/s)
+258 visits left
+109 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/GetState.html
+Done: 106 transfers in 36 ms (2944.44 transfers/s)
+259 visits left
+110 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots/HotspotHandler.html
+Done: 107 transfers in 38 ms (2815.79 transfers/s)
+259 visits left
+111 visits done
+T3 http://localhost:8123/org/cooperari/feature/hotspots/HotspotOperation.html
+Done: 108 transfers in 48 ms (2250.00 transfers/s)
+260 visits left
+112 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/Interrupt.html
+Done: 109 transfers in 35 ms (3114.29 transfers/s)
+261 visits left
+113 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/Interrupted.html
+Done: 110 transfers in 37 ms (2972.97 transfers/s)
+262 visits left
+114 visits done
+T0 http://localhost:8123/org/cooperari/core/util/IO.html
+Done: 111 transfers in 39 ms (2846.15 transfers/s)
+263 visits left
+115 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/IsInterrupted.html
+Done: 112 transfers in 55 ms (2036.36 transfers/s)
+263 visits left
+116 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/Join.html
+Done: 113 transfers in 55 ms (2054.55 transfers/s)
+264 visits left
+117 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/Memini.html
+Done: 114 transfers in 63 ms (1809.52 transfers/s)
+266 visits left
+118 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/Monitor.html
+Done: 115 transfers in 52 ms (2211.54 transfers/s)
+269 visits left
+119 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/MonitorOperation.html
+Done: 116 transfers in 46 ms (2521.74 transfers/s)
+269 visits left
+120 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/MonitorPool.html
+Done: 117 transfers in 42 ms (2785.71 transfers/s)
+269 visits left
+121 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/Notify.html
+Done: 118 transfers in 38 ms (3105.26 transfers/s)
+269 visits left
+122 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/NotifyAll.html
+Done: 119 transfers in 39 ms (3051.28 transfers/s)
+270 visits left
+123 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/Oblitus.html
+Done: 121 transfers in 34 ms (3558.82 transfers/s)
+271 visits left
+124 visits done
+T1 http://localhost:8123/org/cooperari/feature/data/Read.html
+Done: 120 transfers in 41 ms (2926.83 transfers/s)
+271 visits left
+125 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/RaceDetector.html
+Done: 122 transfers in 40 ms (3050.00 transfers/s)
+272 visits left
+126 visits done
+T0 http://localhost:8123/org/cooperari/core/util/ResourceGraph.html
+Done: 123 transfers in 39 ms (3153.85 transfers/s)
+274 visits left
+127 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/Sleep.html
+Done: 124 transfers in 39 ms (3179.49 transfers/s)
+275 visits left
+128 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/SpuriousWakeup.html
+Done: 125 transfers in 39 ms (3205.13 transfers/s)
+277 visits left
+129 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/Start.html
+Done: 126 transfers in 40 ms (3150.00 transfers/s)
+277 visits left
+130 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/Stop.html
+Done: 127 transfers in 40 ms (3175.00 transfers/s)
+277 visits left
+131 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/ThreadHoldsLock.html
+Done: 128 transfers in 35 ms (3657.14 transfers/s)
+277 visits left
+132 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/ThreadOperation.html
+Done: 129 transfers in 36 ms (3583.33 transfers/s)
+277 visits left
+133 visits done
+T2 http://localhost:8123/org/cooperari/feature/threadrunner/ThreadRunnerOperation.html
+Done: 130 transfers in 36 ms (3611.11 transfers/s)
+277 visits left
+134 visits done
+T0 http://localhost:8123/org/cooperari/core/util/UnsafeVMOperations.html
+Done: 131 transfers in 37 ms (3540.54 transfers/s)
+277 visits left
+135 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/Wait.html
+Done: 133 transfers in 33 ms (4030.30 transfers/s)
+278 visits left
+136 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/Write.html
+Done: 132 transfers in 40 ms (3300.00 transfers/s)
+278 visits left
+137 visits done
+T1 http://localhost:8123/org/cooperari/core/aspectj/WeavingConfiguration.html
+Done: 134 transfers in 31 ms (4322.58 transfers/s)
+279 visits left
+138 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/Yield.html
+Done: 135 transfers in 32 ms (4218.75 transfers/s)
+279 visits left
+139 visits done
+T3 http://localhost:8123/org/cooperari/feature/data/YieldPoints.html
+Done: 136 transfers in 32 ms (4250.00 transfers/s)
+280 visits left
+140 visits done
+T2 http://localhost:8123/org/cooperari/feature/hotspots/YieldPoints.html
+Done: 137 transfers in 35 ms (3914.29 transfers/s)
+281 visits left
+141 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/YieldPoints.html
+Done: 138 transfers in 34 ms (4058.82 transfers/s)
+281 visits left
+142 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/YieldPoints.html
+Done: 139 transfers in 29 ms (4793.10 transfers/s)
+281 visits left
+144 visits done
+T3 http://localhost:8123/org/cooperari/feature/threadrunner/YieldPoints.html
+Done: 143 transfers in 6 ms (23833.33 transfers/s)
+280 visits left
+145 visits done
+T0 http://localhost:8123/deprecated-list.html
+Done: 145 transfers in 5 ms (29000.00 transfers/s)
+279 visits left
+146 visits done
+T0 http://localhost:8123/org/cooperari/package-frame.html
+Done: 146 transfers in 5 ms (29200.00 transfers/s)
+278 visits left
+147 visits done
+T0 http://localhost:8123/org/cooperari/config/package-frame.html
+Done: 147 transfers in 5 ms (29400.00 transfers/s)
+277 visits left
+148 visits done
+T0 http://localhost:8123/org/cooperari/core/package-frame.html
+Done: 148 transfers in 3 ms (49333.33 transfers/s)
+276 visits left
+149 visits done
+T0 http://localhost:8123/org/cooperari/core/aspectj/package-frame.html
+Done: 149 transfers in 4 ms (37250.00 transfers/s)
+275 visits left
+150 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/package-frame.html
+Done: 141 transfers in 35 ms (4028.57 transfers/s)
+274 visits left
+151 visits done
+T1 http://localhost:8123/help-doc.html
+Done: 151 transfers in 3 ms (50333.33 transfers/s)
+273 visits left
+152 visits done
+T1 http://localhost:8123/org/cooperari/core/util/package-frame.html
+Done: 150 transfers in 6 ms (25000.00 transfers/s)
+273 visits left
+153 visits done
+T0 http://localhost:8123/org
+Done: 153 transfers in 4 ms (38250.00 transfers/s)
+272 visits left
+154 visits done
+T0 http://localhost:8123/org/cooperari/errors/package-frame.html
+Done: 152 transfers in 7 ms (21714.29 transfers/s)
+279 visits left
+155 visits done
+T1 http://localhost:8123/org/cooperari
+Done: 144 transfers in 43 ms (3348.84 transfers/s)
+278 visits left
+156 visits done
+T3 http://localhost:8123/constant-values.html
+Done: 154 transfers in 4 ms (38500.00 transfers/s)
+277 visits left
+157 visits done
+T0 http://localhost:8123/org/cooperari/feature/package-frame.html
+Done: 155 transfers in 4 ms (38750.00 transfers/s)
+276 visits left
+158 visits done
+T1 http://localhost:8123/org/cooperari/feature/atomic/package-frame.html
+Done: 156 transfers in 5 ms (31200.00 transfers/s)
+Done: 157 transfers in 4 ms (39250.00 transfers/s)
+275 visits left
+275 visits left
+159 visits done
+159 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots/package-frame.html
+T3 http://localhost:8123/org/cooperari/feature/data/package-frame.html
+Done: 158 transfers in 4 ms (39500.00 transfers/s)
+273 visits left
+161 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/package-frame.html
+Done: 160 transfers in 5 ms (32000.00 transfers/s)
+Done: 159 transfers in 5 ms (31800.00 transfers/s)
+Done: 161 transfers in 5 ms (32200.00 transfers/s)
+272 visits left
+162 visits done
+272 visits left
+T1 http://localhost:8123/org/cooperari/feature/unsafe/package-frame.html
+272 visits left
+162 visits done
+162 visits done
+T3 http://localhost:8123/org/cooperari/feature/threadrunner/package-frame.html
+T0 http://localhost:8123/org/cooperari/feature/thread/package-frame.html
+Done: 162 transfers in 4 ms (40500.00 transfers/s)
+269 visits left
+165 visits done
+T1 http://localhost:8123/org/cooperari/junit/package-frame.html
+Done: 163 transfers in 5 ms (32600.00 transfers/s)
+269 visits left
+166 visits done
+T3 http://localhost:8123/overview-summary.html
+Done: 165 transfers in 5 ms (33000.00 transfers/s)
+269 visits left
+167 visits done
+T1 http://localhost:8123/org/cooperari/package-summary.html
+Done: 140 transfers in 86 ms (1627.91 transfers/s)
+269 visits left
+168 visits done
+T2 http://localhost:8123/index-all.html
+Done: 168 transfers in 6 ms (28000.00 transfers/s)
+270 visits left
+169 visits done
+T2 http://localhost:8123/org/cooperari/core/aspectj/package-summary.html
+Done: 166 transfers in 33 ms (5030.30 transfers/s)
+270 visits left
+170 visits done
+T3 http://localhost:8123/org/cooperari/config/package-summary.html
+Done: 164 transfers in 43 ms (3813.95 transfers/s)
+269 visits left
+171 visits done
+T0 http://localhost:8123/overview-tree.html
+Done: 170 transfers in 4 ms (42500.00 transfers/s)
+272 visits left
+172 visits done
+T3 http://localhost:8123/org/cooperari/core/util/package-summary.html
+Done: 167 transfers in 35 ms (4771.43 transfers/s)
+272 visits left
+173 visits done
+T1 http://localhost:8123/org/cooperari/core/package-summary.html
+Done: 173 transfers in 5 ms (34600.00 transfers/s)
+274 visits left
+174 visits done
+T1 http://localhost:8123/org/cooperari/feature/atomic/package-summary.html
+Done: 172 transfers in 5 ms (34400.00 transfers/s)
+274 visits left
+175 visits done
+T3 http://localhost:8123/org/cooperari/feature/package-summary.html
+Done: 175 transfers in 6 ms (29166.67 transfers/s)
+Done: 174 transfers in 6 ms (29000.00 transfers/s)
+277 visits left
+277 visits left
+176 visits done
+176 visits done
+T1 http://localhost:8123/org/cooperari/feature/data/package-summary.html
+T3 http://localhost:8123/org/cooperari/feature/hotspots/package-summary.html
+Done: 169 transfers in 36 ms (4694.44 transfers/s)
+276 visits left
+178 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/package-summary.html
+Done: 178 transfers in 9 ms (19777.78 transfers/s)
+278 visits left
+179 visits done
+T2 http://localhost:8123/org/cooperari/feature/threadrunner/package-summary.html
+Done: 179 transfers in 7 ms (25571.43 transfers/s)
+279 visits left
+180 visits done
+T2 http://localhost:8123/org/cooperari/feature/unsafe/package-summary.html
+Done: 180 transfers in 7 ms (25714.29 transfers/s)
+280 visits left
+181 visits done
+T2 http://localhost:8123/org/cooperari/junit/package-summary.html
+Done: 171 transfers in 43 ms (3976.74 transfers/s)
+280 visits left
+182 visits done
+T0 http://localhost:8123/org/cooperari/errors/package-summary.html
+Done: 177 transfers in 40 ms (4425.00 transfers/s)
+Done: 176 transfers in 40 ms (4400.00 transfers/s)
+282 visits left
+282 visits left
+183 visits done
+183 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/package-summary.html
+T1 http://localhost:8123/org/cooperari/feature/monitor/package-summary.html
+Done: 182 transfers in 29 ms (6275.86 transfers/s)
+281 visits left
+185 visits done
+T0 http://localhost:8123/org/cooperari/package-tree.html
+Done: 181 transfers in 30 ms (6033.33 transfers/s)
+280 visits left
+186 visits done
+T2 http://localhost:8123/serialized-form.html
+Done: 185 transfers in 7 ms (26428.57 transfers/s)
+282 visits left
+187 visits done
+T0 http://localhost:8123/org/cooperari/core/aspectj/package-tree.html
+Done: 183 transfers in 30 ms (6100.00 transfers/s)
+281 visits left
+188 visits done
+T3 http://localhost:8123/org/cooperari/config/package-tree.html
+Done: 187 transfers in 4 ms (46750.00 transfers/s)
+281 visits left
+189 visits done
+T0 http://localhost:8123/org/cooperari/core/util/package-tree.html
+Done: 184 transfers in 35 ms (5257.14 transfers/s)
+280 visits left
+190 visits done
+T1 http://localhost:8123/org/cooperari/core/package-tree.html
+Done: 188 transfers in 8 ms (23500.00 transfers/s)
+281 visits left
+191 visits done
+T3 http://localhost:8123/org/cooperari/errors/package-tree.html
+Done: 189 transfers in 8 ms (23625.00 transfers/s)
+281 visits left
+192 visits done
+T0 http://localhost:8123/org/cooperari/feature/package-tree.html
+Done: 190 transfers in 7 ms (27142.86 transfers/s)
+281 visits left
+193 visits done
+T1 http://localhost:8123/org/cooperari/feature/atomic/package-tree.html
+Done: 191 transfers in 6 ms (31833.33 transfers/s)
+Done: 192 transfers in 5 ms (38400.00 transfers/s)
+281 visits left
+281 visits left
+194 visits done
+194 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots/package-tree.html
+T3 http://localhost:8123/org/cooperari/feature/data/package-tree.html
+Done: 195 transfers in 5 ms (39000.00 transfers/s)
+280 visits left
+196 visits done
+T3 http://localhost:8123/org/cooperari/feature/threadrunner/package-tree.html
+Done: 186 transfers in 36 ms (5166.67 transfers/s)
+279 visits left
+197 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/package-tree.html
+Done: 197 transfers in 4 ms (49250.00 transfers/s)
+280 visits left
+198 visits done
+T2 http://localhost:8123/org/cooperari/junit/package-tree.html
+Done: 198 transfers in 3 ms (66000.00 transfers/s)
+281 visits left
+199 visits done
+T2 http://localhost:8123/overview-frame.html
+Done: 193 transfers in 34 ms (5676.47 transfers/s)
+Done: 194 transfers in 31 ms (6258.06 transfers/s)
+278 visits left
+278 visits left
+202 visits done
+202 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/package-tree.html
+T1 http://localhost:8123/org/cooperari/feature/monitor/package-tree.html
+Done: 196 transfers in 34 ms (5764.71 transfers/s)
+276 visits left
+204 visits done
+T3 http://localhost:8123/org/cooperari/feature/unsafe/package-tree.html
+Done: 201 transfers in 31 ms (6483.87 transfers/s)
+276 visits left
+205 visits done
+T2 http://localhost:8123/org/cooperari/core/ACustomYieldPoint.html
+Done: 203 transfers in 31 ms (6548.39 transfers/s)
+275 visits left
+206 visits done
+T1 http://localhost:8123/org/cooperari/core/util/AgentLoader.html
+Done: 202 transfers in 32 ms (6312.50 transfers/s)
+275 visits left
+207 visits done
+T0 http://localhost:8123/org/cooperari/core/aspectj/AgentFacade.html
+Done: 204 transfers in 28 ms (7285.71 transfers/s)
+Done: 206 transfers in 4 ms (51500.00 transfers/s)
+275 visits left
+Done: 207 transfers in 3 ms (69000.00 transfers/s)
+275 visits left
+208 visits done
+274 visits left
+T0 http://localhost:8123/org/cooperari/core/util/class-use/AgentLoader.html
+208 visits done
+208 visits done
+T1 http://localhost:8123/org/cooperari/core/aspectj/class-use/AgentFacade.html
+T3 http://localhost:8123/org/cooperari/core/class-use/ACustomYieldPoint.html
+Done: 208 transfers in 6 ms (34666.67 transfers/s)
+272 visits left
+211 visits done
+T0 http://localhost:8123/org/cooperari/core/aspectj/class-use/AgentMessageHandler.html
+Done: 210 transfers in 6 ms (35000.00 transfers/s)
+272 visits left
+212 visits done
+T3 http://localhost:8123/org/cooperari/core/aspectj/class-use/AspectCompiler.html
+Done: 212 transfers in 5 ms (42400.00 transfers/s)
+272 visits left
+213 visits done
+T3 http://localhost:8123/org/cooperari/core/aspectj/class-use/CAgent.html
+Done: 213 transfers in 6 ms (35500.00 transfers/s)
+272 visits left
+214 visits done
+T3 http://localhost:8123/org/cooperari/feature/class-use/CAllFeatures.html
+Done: 205 transfers in 40 ms (5125.00 transfers/s)
+271 visits left
+215 visits done
+T2 http://localhost:8123/org/cooperari/core/aspectj/AgentMessageHandler.html
+Done: 215 transfers in 7 ms (30714.29 transfers/s)
+271 visits left
+216 visits done
+T2 http://localhost:8123/org/cooperari/config/class-use/CAlways.html
+Done: 209 transfers in 47 ms (4446.81 transfers/s)
+270 visits left
+217 visits done
+T1 http://localhost:8123/org/cooperari/core/aspectj/AspectCompiler.html
+Done: 211 transfers in 44 ms (4795.45 transfers/s)
+269 visits left
+218 visits done
+T0 http://localhost:8123/org/cooperari/core/aspectj/CAgent.html
+Done: 214 transfers in 43 ms (4976.74 transfers/s)
+268 visits left
+219 visits done
+T3 http://localhost:8123/org/cooperari/feature/CAllFeatures.html
+Done: 218 transfers in 39 ms (5589.74 transfers/s)
+Done: 216 transfers in 51 ms (4235.29 transfers/s)
+268 visits left
+220 visits done
+Done: 217 transfers in 42 ms (5166.67 transfers/s)
+268 visits left
+220 visits done
+T2 http://localhost:8123/org/cooperari/config/CBaseConfiguration.html
+268 visits left
+T1 http://localhost:8123/org/cooperari/config/CAlways.html
+221 visits done
+T0 http://localhost:8123/org/cooperari/class-use/CArray.html
+Done: 221 transfers in 5 ms (44200.00 transfers/s)
+266 visits left
+223 visits done
+T1 http://localhost:8123/org/cooperari/feature/atomic/class-use/CAtomicObjectsFeature.html
+Done: 220 transfers in 5 ms (44000.00 transfers/s)
+266 visits left
+224 visits done
+T2 http://localhost:8123/org/cooperari/config/class-use/CBaseConfiguration.html
+Done: 223 transfers in 6 ms (37166.67 transfers/s)
+266 visits left
+225 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/CBlockingOperationEvent.html
+Done: 225 transfers in 6 ms (37500.00 transfers/s)
+266 visits left
+226 visits done
+T1 http://localhost:8123/org/cooperari/junit/class-use/CCooperativeOnly.html
+Done: 226 transfers in 6 ms (37666.67 transfers/s)
+265 visits left
+227 visits done
+T1 http://localhost:8123/org/cooperari/junit/CCooperativeOnly.html
+Done: 227 transfers in 5 ms (45400.00 transfers/s)
+265 visits left
+228 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/CConfiguration.html
+Done: 222 transfers in 44 ms (5045.45 transfers/s)
+264 visits left
+229 visits done
+T0 http://localhost:8123/org/cooperari/feature/atomic/CAtomicObjectsFeature.html
+Done: 224 transfers in 41 ms (5463.41 transfers/s)
+263 visits left
+230 visits done
+T2 http://localhost:8123/org/cooperari/core/CConfiguration.html
+Done: 229 transfers in 6 ms (38166.67 transfers/s)
+263 visits left
+231 visits done
+T0 http://localhost:8123/org/cooperari/errors/class-use/CCheckedExceptionError.html
+Done: 228 transfers in 44 ms (5181.82 transfers/s)
+263 visits left
+232 visits done
+T1 http://localhost:8123/org/cooperari/errors/CConfigurationError.html
+Done: 230 transfers in 41 ms (5609.76 transfers/s)
+262 visits left
+233 visits done
+T2 http://localhost:8123/org/cooperari/errors/CCheckedExceptionError.html
+Done: 231 transfers in 42 ms (5500.00 transfers/s)
+261 visits left
+234 visits done
+T0 http://localhost:8123/org/cooperari/errors/class-use/CConfigurationError.html
+Done: 232 transfers in 34 ms (6823.53 transfers/s)
+261 visits left
+235 visits done
+T1 http://localhost:8123/org/cooperari/class-use/CCoverage.html
+Done: 233 transfers in 34 ms (6852.94 transfers/s)
+260 visits left
+236 visits done
+T2 http://localhost:8123/org/cooperari/CCoverage.html
+Done: 236 transfers in 4 ms (59000.00 transfers/s)
+260 visits left
+237 visits done
+T2 http://localhost:8123/org/cooperari/config/CDetectResourceDeadlocks.html
+Done: 234 transfers in 36 ms (6500.00 transfers/s)
+260 visits left
+238 visits done
+T0 http://localhost:8123/org/cooperari/core/CCoverageLog.html
+Done: 235 transfers in 36 ms (6527.78 transfers/s)
+259 visits left
+239 visits done
+T1 http://localhost:8123/org/cooperari/config/class-use/CDetectResourceDeadlocks.html
+Done: 239 transfers in 6 ms (39833.33 transfers/s)
+259 visits left
+240 visits done
+T1 http://localhost:8123/org/cooperari/feature/data/class-use/CDataAccessFeature.html
+Done: 237 transfers in 40 ms (5925.00 transfers/s)
+258 visits left
+241 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CCoverageLog.html
+Done: 238 transfers in 83 ms (2867.47 transfers/s)
+257 visits left
+242 visits done
+T0 http://localhost:8123/org/cooperari/core/CEngine.html
+Done: 240 transfers in 74 ms (3243.24 transfers/s)
+256 visits left
+243 visits done
+T1 http://localhost:8123/org/cooperari/feature/data/CDataAccessFeature.html
+Done: 241 transfers in 66 ms (3651.52 transfers/s)
+255 visits left
+244 visits done
+T2 http://localhost:8123/org/cooperari/errors/class-use/CDeadlockError.html
+Done: 244 transfers in 11 ms (22181.82 transfers/s)
+255 visits left
+245 visits done
+T2 http://localhost:8123/org/cooperari/config/class-use/CGenerateCoverageReports.html
+Done: 243 transfers in 43 ms (5651.16 transfers/s)
+254 visits left
+246 visits done
+T1 http://localhost:8123/org/cooperari/errors/CDeadlockError.html
+Done: 242 transfers in 55 ms (4400.00 transfers/s)
+253 visits left
+247 visits done
+T0 http://localhost:8123/org/cooperari/errors/CError.html
+Done: 245 transfers in 31 ms (7903.23 transfers/s)
+252 visits left
+248 visits done
+T2 http://localhost:8123/org/cooperari/config/CGenerateCoverageReports.html
+Done: 246 transfers in 32 ms (7687.50 transfers/s)
+252 visits left
+249 visits done
+T1 http://localhost:8123/org/cooperari/feature/class-use/CFeature.html
+Done: 247 transfers in 30 ms (8233.33 transfers/s)
+251 visits left
+250 visits done
+T0 http://localhost:8123/org/cooperari/feature/CFeature.html
+Done: 248 transfers in 31 ms (8000.00 transfers/s)
+251 visits left
+251 visits done
+Done: 250 transfers in 6 ms (41666.67 transfers/s)
+252 visits left
+251 visits done
+T2 http://localhost:8123/org/cooperari/errors/class-use/CError.html
+T0 http://localhost:8123/org/cooperari/core/class-use/CEngine.html
+Done: 251 transfers in 6 ms (41833.33 transfers/s)
+251 visits left
+253 visits done
+T2 http://localhost:8123/org/cooperari/errors/class-use/CHotspotError.html
+Done: 219 transfers in 341 ms (642.23 transfers/s)
+250 visits left
+254 visits done
+T3 http://localhost:8123/org/cooperari/CArray.html
+Done: 249 transfers in 42 ms (5928.57 transfers/s)
+249 visits left
+255 visits done
+T1 http://localhost:8123/org/cooperari/errors/CHotspotError.html
+Done: 252 transfers in 38 ms (6631.58 transfers/s)
+249 visits left
+256 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/CGroupProgramState.html
+Done: 256 transfers in 5 ms (51200.00 transfers/s)
+249 visits left
+257 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots/class-use/CHotspotFeature.html
+Done: 254 transfers in 37 ms (6864.86 transfers/s)
+249 visits left
+258 visits done
+T3 http://localhost:8123/org/cooperari/config/class-use/CInstrument.html
+Done: 253 transfers in 44 ms (5750.00 transfers/s)
+248 visits left
+259 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/CGroupProgramState.html
+Done: 257 transfers in 8 ms (32125.00 transfers/s)
+248 visits left
+260 visits done
+T0 http://localhost:8123/org/cooperari/junit/class-use/CJUnitRunner.html
+Done: 259 transfers in 6 ms (43166.67 transfers/s)
+248 visits left
+261 visits done
+T2 http://localhost:8123/org/cooperari/errors/class-use/CInternalError.html
+Done: 255 transfers in 42 ms (6071.43 transfers/s)
+247 visits left
+262 visits done
+T1 http://localhost:8123/org/cooperari/config/CInstrument.html
+Done: 258 transfers in 39 ms (6615.38 transfers/s)
+246 visits left
+263 visits done
+T3 http://localhost:8123/org/cooperari/junit/CJUnitRunner.html
+Done: 260 transfers in 36 ms (7222.22 transfers/s)
+245 visits left
+264 visits done
+T0 http://localhost:8123/org/cooperari/errors/CInternalError.html
+Done: 261 transfers in 39 ms (6692.31 transfers/s)
+245 visits left
+265 visits done
+T2 http://localhost:8123/org/cooperari/core/util/class-use/CLog.html
+Done: 265 transfers in 6 ms (44166.67 transfers/s)
+245 visits left
+266 visits done
+T2 http://localhost:8123/org/cooperari/config/class-use/CMaxTrials.html
+Done: 262 transfers in 46 ms (5695.65 transfers/s)
+244 visits left
+267 visits done
+T1 http://localhost:8123/org/cooperari/core/util/CLog.Option.html
+Done: 263 transfers in 49 ms (5367.35 transfers/s)
+243 visits left
+268 visits done
+T3 http://localhost:8123/org/cooperari/core/util/CLog.html
+Done: 268 transfers in 4 ms (67000.00 transfers/s)
+243 visits left
+269 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use/CMonitorFeature.html
+Done: 264 transfers in 49 ms (5387.76 transfers/s)
+242 visits left
+270 visits done
+T0 http://localhost:8123/org/cooperari/core/util/class-use/CLog.Option.html
+Done: 270 transfers in 7 ms (38571.43 transfers/s)
+242 visits left
+271 visits done
+T0 http://localhost:8123/org/cooperari/errors/class-use/CMultipleExceptionsError.html
+Done: 266 transfers in 47 ms (5659.57 transfers/s)
+241 visits left
+272 visits done
+T2 http://localhost:8123/org/cooperari/config/CNever.html
+Done: 267 transfers in 47 ms (5680.85 transfers/s)
+240 visits left
+273 visits done
+T1 http://localhost:8123/org/cooperari/config/CMaxTrials.html
+Done: 273 transfers in 8 ms (34125.00 transfers/s)
+240 visits left
+274 visits done
+T1 http://localhost:8123/org/cooperari/config/class-use/CNever.html
+Done: 274 transfers in 5 ms (54800.00 transfers/s)
+240 visits left
+275 visits done
+T1 http://localhost:8123/org/cooperari/errors/class-use/CNonCooperativeModeError.html
+Done: 269 transfers in 47 ms (5723.40 transfers/s)
+239 visits left
+276 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/CMonitorFeature.html
+Done: 271 transfers in 47 ms (5765.96 transfers/s)
+238 visits left
+277 visits done
+T0 http://localhost:8123/org/cooperari/errors/CNonCooperativeModeError.html
+Done: 277 transfers in 8 ms (34625.00 transfers/s)
+238 visits left
+278 visits done
+T0 http://localhost:8123/org/cooperari/junit/class-use/CPreemptiveOnly.html
+Done: 272 transfers in 53 ms (5132.08 transfers/s)
+237 visits left
+279 visits done
+T2 http://localhost:8123/org/cooperari/errors/CMultipleExceptionsError.html
+Done: 278 transfers in 9 ms (30888.89 transfers/s)
+236 visits left
+280 visits done
+T0 http://localhost:8123/org/cooperari/junit/CPreemptiveOnly.html
+Done: 275 transfers in 49 ms (5612.24 transfers/s)
+236 visits left
+281 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/COperation.html
+Done: 276 transfers in 50 ms (5520.00 transfers/s)
+235 visits left
+282 visits done
+T3 http://localhost:8123/org/cooperari/core/COperation.html
+Done: 279 transfers in 45 ms (6200.00 transfers/s)
+234 visits left
+283 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramState.html
+Done: 280 transfers in 41 ms (6829.27 transfers/s)
+234 visits left
+284 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/CProgramState.CElement.html
+Done: 283 transfers in 6 ms (47166.67 transfers/s)
+234 visits left
+285 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramStateFactory.html
+Done: 281 transfers in 42 ms (6690.48 transfers/s)
+233 visits left
+286 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramState.CElement.html
+Done: 282 transfers in 46 ms (6130.43 transfers/s)
+232 visits left
+287 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/CProgramStateFactory.html
+Done: 284 transfers in 46 ms (6173.91 transfers/s)
+Done: 285 transfers in 41 ms (6951.22 transfers/s)
+232 visits left
+232 visits left
+288 visits done
+288 visits done
+T2 http://localhost:8123/org/cooperari/config/class-use/CRaceDetection.html
+T0 http://localhost:8123/org/cooperari/core/scheduling/CRawProgramState.html
+Done: 288 transfers in 5 ms (57600.00 transfers/s)
+Done: 289 transfers in 5 ms (57800.00 transfers/s)
+232 visits left
+290 visits done
+232 visits left
+290 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/CRawProgramState.html
+T2 http://localhost:8123/org/cooperari/errors/class-use/CRaceError.html
+Done: 290 transfers in 5 ms (58000.00 transfers/s)
+231 visits left
+292 visits done
+T0 http://localhost:8123/org/cooperari/core/util/class-use/CRawTuple.html
+Done: 286 transfers in 42 ms (6809.52 transfers/s)
+230 visits left
+293 visits done
+T1 http://localhost:8123/org/cooperari/config/CRaceDetection.html
+Done: 293 transfers in 6 ms (48833.33 transfers/s)
+230 visits left
+294 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/class-use/CResourceDeadlockError.html
+Done: 287 transfers in 43 ms (6674.42 transfers/s)
+229 visits left
+295 visits done
+T3 http://localhost:8123/org/cooperari/errors/CRaceError.html
+Done: 291 transfers in 44 ms (6613.64 transfers/s)
+229 visits left
+296 visits done
+T2 http://localhost:8123/org/cooperari/core/util/CReport.html
+Done: 292 transfers in 42 ms (6952.38 transfers/s)
+228 visits left
+297 visits done
+T0 http://localhost:8123/org/cooperari/core/util/class-use/CReport.html
+Done: 294 transfers in 43 ms (6837.21 transfers/s)
+227 visits left
+298 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/CResourceDeadlockError.html
+Done: 295 transfers in 39 ms (7564.10 transfers/s)
+227 visits left
+299 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CRuntime.html
+Done: 297 transfers in 37 ms (8027.03 transfers/s)
+226 visits left
+300 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/CScheduler.html
+Done: 296 transfers in 44 ms (6727.27 transfers/s)
+225 visits left
+301 visits done
+T2 http://localhost:8123/org/cooperari/core/CRuntime.html
+Done: 300 transfers in 5 ms (60000.00 transfers/s)
+225 visits left
+302 visits done
+T0 http://localhost:8123/org/cooperari/config/class-use/CScheduling.html
+Done: 299 transfers in 35 ms (8542.86 transfers/s)
+225 visits left
+303 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/class-use/CSchedulerFactory.html
+Done: 298 transfers in 41 ms (7268.29 transfers/s)
+224 visits left
+304 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/CSchedulerFactory.html
+Done: 303 transfers in 4 ms (75750.00 transfers/s)
+224 visits left
+305 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CSession.html
+Done: 305 transfers in 5 ms (61000.00 transfers/s)
+224 visits left
+306 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CSession.ExecutionHandler.html
+Done: 306 transfers in 5 ms (61200.00 transfers/s)
+224 visits left
+307 visits done
+T3 http://localhost:8123/org/cooperari/config/class-use/CSometimes.html
+Done: 307 transfers in 6 ms (51166.67 transfers/s)
+224 visits left
+308 visits done
+T3 http://localhost:8123/org/cooperari/feature/unsafe/class-use/CSunMiscUnsafeFeature.html
+Done: 301 transfers in 39 ms (7717.95 transfers/s)
+223 visits left
+309 visits done
+T2 http://localhost:8123/org/cooperari/config/CSometimes.html
+Done: 302 transfers in 39 ms (7743.59 transfers/s)
+222 visits left
+310 visits done
+T0 http://localhost:8123/org/cooperari/config/CScheduling.html
+Done: 304 transfers in 39 ms (7794.87 transfers/s)
+221 visits left
+311 visits done
+T1 http://localhost:8123/org/cooperari/core/CSession.ExecutionHandler.html
+Done: 308 transfers in 40 ms (7700.00 transfers/s)
+220 visits left
+312 visits done
+T3 http://localhost:8123/org/cooperari/feature/unsafe/CSunMiscUnsafeFeature.html
+Done: 309 transfers in 34 ms (9088.24 transfers/s)
+220 visits left
+313 visits done
+T2 http://localhost:8123/org/cooperari/class-use/CTest.html
+Done: 310 transfers in 33 ms (9393.94 transfers/s)
+220 visits left
+314 visits done
+T0 http://localhost:8123/org/cooperari/CTestResult.html
+Done: 312 transfers in 5 ms (62400.00 transfers/s)
+219 visits left
+315 visits done
+T3 http://localhost:8123/org/cooperari/class-use/CSystem.html
+Done: 315 transfers in 5 ms (63000.00 transfers/s)
+219 visits left
+316 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/CThreadHandle.html
+Done: 311 transfers in 38 ms (8184.21 transfers/s)
+218 visits left
+317 visits done
+T1 http://localhost:8123/org/cooperari/CTest.html
+Done: 317 transfers in 4 ms (79250.00 transfers/s)
+218 visits left
+318 visits done
+T1 http://localhost:8123/org/cooperari/junit/class-use/CTestResultPool.html
+Done: 313 transfers in 34 ms (9205.88 transfers/s)
+217 visits left
+319 visits done
+T2 http://localhost:8123/org/cooperari/class-use/CTestResult.html
+Done: 314 transfers in 36 ms (8722.22 transfers/s)
+216 visits left
+320 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/CThreadHandle.html
+Done: 319 transfers in 5 ms (63800.00 transfers/s)
+216 visits left
+321 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/class-use/CThreadFeature.html
+Done: 318 transfers in 30 ms (10600.00 transfers/s)
+215 visits left
+322 visits done
+T1 http://localhost:8123/org/cooperari/junit/CTestResultPool.html
+Done: 316 transfers in 48 ms (6583.33 transfers/s)
+214 visits left
+323 visits done
+T3 http://localhost:8123/org/cooperari/core/CThread.html
+Done: 323 transfers in 3 ms (107666.67 transfers/s)
+214 visits left
+324 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CThreadMappings.html
+Done: 321 transfers in 29 ms (11068.97 transfers/s)
+214 visits left
+325 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/class-use/CThreadLocation.html
+Done: 320 transfers in 33 ms (9696.97 transfers/s)
+213 visits left
+326 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/CThreadFeature.html
+Done: 322 transfers in 34 ms (9470.59 transfers/s)
+212 visits left
+327 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/CThreadLocation.html
+Done: 327 transfers in 4 ms (81750.00 transfers/s)
+212 visits left
+328 visits done
+T1 http://localhost:8123/org/cooperari/feature/threadrunner/class-use/CThreadRunnerFeature.html
+Done: 324 transfers in 35 ms (9257.14 transfers/s)
+211 visits left
+329 visits done
+T3 http://localhost:8123/org/cooperari/core/CThreadState.html
+Done: 325 transfers in 35 ms (9285.71 transfers/s)
+210 visits left
+330 visits done
+T2 http://localhost:8123/org/cooperari/core/CThreadMappings.html
+Done: 326 transfers in 38 ms (8578.95 transfers/s)
+210 visits left
+331 visits done
+T0 http://localhost:8123/org/cooperari/core/class-use/CThread.html
+Done: 331 transfers in 5 ms (66200.00 transfers/s)
+210 visits left
+332 visits done
+T0 http://localhost:8123/org/cooperari/config/class-use/CTimeLimit.html
+Done: 328 transfers in 43 ms (7627.91 transfers/s)
+209 visits left
+333 visits done
+T1 http://localhost:8123/org/cooperari/feature/threadrunner/CThreadRunnerFeature.html
+Done: 329 transfers in 40 ms (8225.00 transfers/s)
+209 visits left
+334 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CThreadState.html
+Done: 330 transfers in 38 ms (8684.21 transfers/s)
+209 visits left
+335 visits done
+T2 http://localhost:8123/org/cooperari/core/CTrace.html
+Done: 332 transfers in 35 ms (9485.71 transfers/s)
+208 visits left
+336 visits done
+T0 http://localhost:8123/org/cooperari/config/CTraceOptions.html
+Done: 333 transfers in 34 ms (9794.12 transfers/s)
+207 visits left
+337 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/CTrace.html
+Done: 334 transfers in 34 ms (9823.53 transfers/s)
+207 visits left
+338 visits done
+T3 http://localhost:8123/org/cooperari/core/CTrace.EventType.html
+Done: 337 transfers in 7 ms (48142.86 transfers/s)
+207 visits left
+339 visits done
+T1 http://localhost:8123/org/cooperari/config/class-use/CTraceOptions.html
+Done: 338 transfers in 5 ms (67600.00 transfers/s)
+207 visits left
+340 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CUncaughtExceptionHandler.html
+Done: 335 transfers in 37 ms (9054.05 transfers/s)
+206 visits left
+341 visits done
+Done: 340 transfers in 4 ms (85000.00 transfers/s)
+207 visits left
+341 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/CurrentThread.html
+T2 http://localhost:8123/org/cooperari/core/class-use/CTrace.EventType.html
+Done: 336 transfers in 39 ms (8615.38 transfers/s)
+205 visits left
+343 visits done
+T0 http://localhost:8123/org/cooperari/core/CUncaughtExceptionHandler.html
+Done: 339 transfers in 36 ms (9416.67 transfers/s)
+205 visits left
+344 visits done
+T1 http://localhost:8123/org/cooperari/core/CustomYieldPoint.html
+Done: 342 transfers in 37 ms (9243.24 transfers/s)
+204 visits left
+345 visits done
+Done: 341 transfers in 38 ms (8973.68 transfers/s)
+204 visits left
+345 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/CurrentThread.html
+T2 http://localhost:8123/org/cooperari/core/class-use/CustomYieldPoint.html
+Done: 344 transfers in 7 ms (49142.86 transfers/s)
+203 visits left
+347 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/CustomYieldPointOperation.html
+Done: 346 transfers in 5 ms (69200.00 transfers/s)
+203 visits left
+348 visits done
+T2 http://localhost:8123/org/cooperari/class-use/CVersion.html
+Done: 343 transfers in 37 ms (9270.27 transfers/s)
+202 visits left
+349 visits done
+T0 http://localhost:8123/org/cooperari/core/CustomYieldPointOperation.html
+Done: 347 transfers in 38 ms (9131.58 transfers/s)
+201 visits left
+350 visits done
+T1 http://localhost:8123/org/cooperari/CVersion.html
+Done: 345 transfers in 41 ms (8414.63 transfers/s)
+200 visits left
+351 visits done
+T3 http://localhost:8123/org/cooperari/core/CWorkspace.html
+Done: 348 transfers in 41 ms (8487.80 transfers/s)
+200 visits left
+352 visits done
+T2 http://localhost:8123/org/cooperari/errors/class-use/CWaitDeadlockError.html
+Done: 349 transfers in 42 ms (8309.52 transfers/s)
+200 visits left
+353 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/CYieldPoint.html
+Done: 350 transfers in 42 ms (8333.33 transfers/s)
+199 visits left
+354 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/CYieldPoint.html
+Done: 352 transfers in 36 ms (9777.78 transfers/s)
+199 visits left
+355 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CWorkspace.html
+Done: 351 transfers in 47 ms (7468.09 transfers/s)
+199 visits left
+356 visits done
+T3 http://localhost:8123/org/cooperari/core/CYieldPointImpl.html
+Done: 353 transfers in 42 ms (8404.76 transfers/s)
+199 visits left
+357 visits done
+T0 http://localhost:8123/org/cooperari/core/CWorkspace.Option.html
+Done: 356 transfers in 10 ms (35600.00 transfers/s)
+198 visits left
+358 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use/DeadlockDetector.html
+Done: 358 transfers in 11 ms (32545.45 transfers/s)
+198 visits left
+359 visits done
+T3 http://localhost:8123/org/cooperari/feature/data/class-use/DataOperation.html
+Done: 355 transfers in 48 ms (7395.83 transfers/s)
+197 visits left
+360 visits done
+Done: 354 transfers in 51 ms (6941.18 transfers/s)
+197 visits left
+360 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CYieldPointImpl.html
+T1 http://localhost:8123/org/cooperari/core/class-use/CWorkspace.Option.html
+Done: 361 transfers in 7 ms (51571.43 transfers/s)
+196 visits left
+362 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/class-use/Enter.html
+Done: 357 transfers in 59 ms (6050.85 transfers/s)
+195 visits left
+363 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/Enter.html
+Done: 363 transfers in 5 ms (72600.00 transfers/s)
+195 visits left
+364 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/class-use/Exit.html
+Done: 359 transfers in 47 ms (7638.30 transfers/s)
+194 visits left
+365 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/DeadlockDetector.html
+Done: 364 transfers in 5 ms (72800.00 transfers/s)
+194 visits left
+366 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/class-use/GetState.html
+Done: 360 transfers in 40 ms (9000.00 transfers/s)
+193 visits left
+367 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/DataOperation.html
+Done: 367 transfers in 4 ms (91750.00 transfers/s)
+193 visits left
+368 visits done
+T2 http://localhost:8123/org/cooperari/feature/hotspots/class-use/HotspotHandler.html
+Done: 362 transfers in 39 ms (9282.05 transfers/s)
+192 visits left
+369 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/Exit.html
+Done: 369 transfers in 5 ms (73800.00 transfers/s)
+192 visits left
+370 visits done
+T1 http://localhost:8123/org/cooperari/feature/hotspots/class-use/HotspotOperation.html
+Done: 370 transfers in 3 ms (123333.33 transfers/s)
+192 visits left
+371 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/class-use/Interrupt.html
+Done: 365 transfers in 35 ms (10428.57 transfers/s)
+Done: 366 transfers in 33 ms (11090.91 transfers/s)
+191 visits left
+191 visits left
+372 visits done
+372 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/Interrupt.html
+T0 http://localhost:8123/org/cooperari/feature/thread/GetState.html
+Done: 373 transfers in 8 ms (46625.00 transfers/s)
+190 visits left
+374 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/Interrupted.html
+Done: 374 transfers in 4 ms (93500.00 transfers/s)
+190 visits left
+375 visits done
+T3 http://localhost:8123/org/cooperari/core/util/class-use/IO.html
+Done: 368 transfers in 35 ms (10514.29 transfers/s)
+189 visits left
+376 visits done
+T2 http://localhost:8123/org/cooperari/feature/hotspots/HotspotOperation.html
+Done: 371 transfers in 38 ms (9763.16 transfers/s)
+188 visits left
+377 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/Interrupted.html
+Done: 372 transfers in 41 ms (9073.17 transfers/s)
+188 visits left
+378 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/IsInterrupted.html
+Done: 378 transfers in 4 ms (94500.00 transfers/s)
+188 visits left
+379 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/class-use/Join.html
+Done: 376 transfers in 31 ms (12129.03 transfers/s)
+187 visits left
+380 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/class-use/IsInterrupted.html
+Done: 375 transfers in 35 ms (10714.29 transfers/s)
+186 visits left
+381 visits done
+T3 http://localhost:8123/org/cooperari/core/util/IO.html
+Done: 377 transfers in 39 ms (9666.67 transfers/s)
+185 visits left
+382 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/Join.html
+Done: 379 transfers in 37 ms (10243.24 transfers/s)
+185 visits left
+383 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/Memini.html
+Done: 381 transfers in 37 ms (10297.30 transfers/s)
+185 visits left
+384 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use/Monitor.html
+Done: 380 transfers in 39 ms (9743.59 transfers/s)
+184 visits left
+385 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/Memini.html
+Done: 382 transfers in 36 ms (10611.11 transfers/s)
+184 visits left
+386 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/MonitorOperation.html
+Done: 385 transfers in 33 ms (11666.67 transfers/s)
+Done: 384 transfers in 35 ms (10971.43 transfers/s)
+183 visits left
+387 visits done
+183 visits left
+387 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use/MonitorOperation.html
+T2 http://localhost:8123/org/cooperari/feature/monitor/MonitorPool.html
+Done: 383 transfers in 40 ms (9575.00 transfers/s)
+181 visits left
+389 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/Monitor.html
+Done: 388 transfers in 7 ms (55428.57 transfers/s)
+181 visits left
+390 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/class-use/MonitorPool.html
+Done: 389 transfers in 5 ms (77800.00 transfers/s)
+181 visits left
+391 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/class-use/Notify.html
+Done: 391 transfers in 6 ms (65166.67 transfers/s)
+181 visits left
+392 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/Oblitus.html
+Done: 386 transfers in 40 ms (9650.00 transfers/s)
+180 visits left
+393 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/Notify.html
+Done: 393 transfers in 6 ms (65500.00 transfers/s)
+180 visits left
+394 visits done
+T1 http://localhost:8123/org/cooperari/feature/data/class-use/Read.html
+Done: 390 transfers in 34 ms (11470.59 transfers/s)
+180 visits left
+395 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/class-use/NotifyAll.html
+Done: 387 transfers in 44 ms (8795.45 transfers/s)
+179 visits left
+396 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/NotifyAll.html
+Done: 395 transfers in 7 ms (56428.57 transfers/s)
+179 visits left
+397 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/class-use/RaceDetector.html
+Done: 396 transfers in 6 ms (66000.00 transfers/s)
+179 visits left
+398 visits done
+T3 http://localhost:8123/org/cooperari/core/util/class-use/ResourceGraph.html
+Done: 392 transfers in 40 ms (9800.00 transfers/s)
+178 visits left
+399 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/Oblitus.html
+Done: 398 transfers in 5 ms (79600.00 transfers/s)
+178 visits left
+400 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/Sleep.html
+Done: 394 transfers in 49 ms (8040.82 transfers/s)
+177 visits left
+401 visits done
+T1 http://localhost:8123/org/cooperari/feature/data/Read.html
+Done: 401 transfers in 4 ms (100250.00 transfers/s)
+177 visits left
+402 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/class-use/SpuriousWakeup.html
+Done: 397 transfers in 40 ms (9925.00 transfers/s)
+176 visits left
+403 visits done
+T2 http://localhost:8123/org/cooperari/core/util/ResourceGraph.html
+Done: 399 transfers in 40 ms (9975.00 transfers/s)
+175 visits left
+404 visits done
+Done: 400 transfers in 35 ms (11428.57 transfers/s)
+176 visits left
+404 visits done
+Done: 403 transfers in 4 ms (100750.00 transfers/s)
+176 visits left
+404 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/SpuriousWakeup.html
+T2 http://localhost:8123/org/cooperari/feature/thread/class-use/Start.html
+T3 http://localhost:8123/org/cooperari/feature/thread/Sleep.html
+Done: 406 transfers in 7 ms (58000.00 transfers/s)
+174 visits left
+407 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/Stop.html
+Done: 407 transfers in 5 ms (81400.00 transfers/s)
+174 visits left
+408 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use/ThreadHoldsLock.html
+Done: 402 transfers in 39 ms (10307.69 transfers/s)
+173 visits left
+409 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/Start.html
+Done: 409 transfers in 6 ms (68166.67 transfers/s)
+173 visits left
+410 visits done
+T1 http://localhost:8123/org/cooperari/feature/threadrunner/class-use/ThreadRunnerOperation.html
+Done: 405 transfers in 40 ms (10125.00 transfers/s)
+172 visits left
+411 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/ThreadOperation.html
+Done: 404 transfers in 40 ms (10100.00 transfers/s)
+171 visits left
+412 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/Stop.html
+Done: 411 transfers in 4 ms (102750.00 transfers/s)
+171 visits left
+Done: 412 transfers in 4 ms (103000.00 transfers/s)
+173 visits left
+413 visits done
+Done: 410 transfers in 6 ms (68333.33 transfers/s)
+173 visits left
+413 visits done
+413 visits done
+T1 http://localhost:8123/org/cooperari/core/util/class-use/UnsafeVMOperations.html
+T0 http://localhost:8123/org/cooperari/feature/data/class-use/Write.html
+T2 http://localhost:8123/org/cooperari/feature/monitor/class-use/Wait.html
+Done: 414 transfers in 4 ms (103500.00 transfers/s)
+172 visits left
+Done: 415 transfers in 4 ms (103750.00 transfers/s)
+172 visits left
+416 visits done
+Done: 408 transfers in 37 ms (11027.03 transfers/s)
+172 visits left
+416 visits done
+416 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/ThreadOperation.html
+T2 http://localhost:8123/org/cooperari/feature/thread/class-use/Yield.html
+T0 http://localhost:8123/org/cooperari/core/aspectj/class-use/WeavingConfiguration.html
+Done: 418 transfers in 5 ms (83600.00 transfers/s)
+170 visits left
+419 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots/class-use/YieldPoints.html
+Done: 417 transfers in 32 ms (13031.25 transfers/s)
+Done: 416 transfers in 32 ms (13000.00 transfers/s)
+170 visits left
+420 visits done
+170 visits left
+420 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/Yield.html
+T2 http://localhost:8123/org/cooperari/feature/data/class-use/YieldPoints.html
+Done: 413 transfers in 39 ms (10589.74 transfers/s)
+168 visits left
+422 visits done
+T1 http://localhost:8123/org/cooperari/feature/data/YieldPoints.html
+Done: 420 transfers in 8 ms (52500.00 transfers/s)
+168 visits left
+423 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use/YieldPoints.html
+Done: 422 transfers in 7 ms (60285.71 transfers/s)
+168 visits left
+424 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/class-use/YieldPoints.html
+Done: 419 transfers in 38 ms (11026.32 transfers/s)
+166 visits left
+426 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots/YieldPoints.html
+Done: 423 transfers in 6 ms (70500.00 transfers/s)
+166 visits left
+427 visits done
+T3 http://localhost:8123/org/cooperari/feature/threadrunner/class-use/YieldPoints.html
+Done: 425 transfers in 12 ms (35416.67 transfers/s)
+Done: 426 transfers in 11 ms (38727.27 transfers/s)
+167 visits left
+167 visits left
+428 visits done
+428 visits done
+T1 http://localhost:8123/org/cooperari
+T0 http://localhost:8123/org/cooperari/class-use
+Done: 427 transfers in 12 ms (35583.33 transfers/s)
+166 visits left
+430 visits done
+T3 http://localhost:8123/org/cooperari/config
+Done: 429 transfers in 10 ms (42900.00 transfers/s)
+167 visits left
+431 visits done
+T0 http://localhost:8123/org/cooperari/errors
+Done: 430 transfers in 11 ms (39090.91 transfers/s)
+175 visits left
+432 visits done
+T3 http://localhost:8123/org/cooperari/feature
+Done: 431 transfers in 9 ms (47888.89 transfers/s)
+Done: 432 transfers in 5 ms (86400.00 transfers/s)
+176 visits left
+176 visits left
+433 visits done
+433 visits done
+T3 http://localhost:8123/org/cooperari/package-frame.html
+T0 http://localhost:8123/org/cooperari/junit
+Done: 428 transfers in 22 ms (19454.55 transfers/s)
+178 visits left
+435 visits done
+T1 http://localhost:8123/org/cooperari/core
+Done: 434 transfers in 7 ms (62000.00 transfers/s)
+178 visits left
+436 visits done
+T0 http://localhost:8123/org/cooperari/package-summary.html
+Done: 421 transfers in 60 ms (7016.67 transfers/s)
+177 visits left
+437 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/YieldPoints.html
+Done: 437 transfers in 6 ms (72833.33 transfers/s)
+177 visits left
+438 visits done
+T2 http://localhost:8123/org/cooperari/core/aspectj/package-use.html
+Done: 438 transfers in 4 ms (109500.00 transfers/s)
+176 visits left
+439 visits done
+T2 http://localhost:8123/org/cooperari/core/aspectj/package-summary.html
+Done: 435 transfers in 34 ms (12794.12 transfers/s)
+176 visits left
+440 visits done
+T1 http://localhost:8123/org/cooperari/config/package-summary.html
+Done: 433 transfers in 37 ms (11702.70 transfers/s)
+175 visits left
+441 visits done
+T3 http://localhost:8123/org/cooperari/package-use.html
+Done: 436 transfers in 31 ms (14064.52 transfers/s)
+174 visits left
+442 visits done
+T0 http://localhost:8123/org/cooperari/core/package-summary.html
+Done: 440 transfers in 5 ms (88000.00 transfers/s)
+174 visits left
+443 visits done
+T1 http://localhost:8123/org/cooperari/core/util/package-use.html
+Done: 443 transfers in 5 ms (88600.00 transfers/s)
+173 visits left
+444 visits done
+T1 http://localhost:8123/org/cooperari/core/util/package-summary.html
+Done: 439 transfers in 38 ms (11552.63 transfers/s)
+172 visits left
+445 visits done
+T2 http://localhost:8123/org/cooperari/config/package-use.html
+Done: 445 transfers in 4 ms (111250.00 transfers/s)
+172 visits left
+446 visits done
+T2 http://localhost:8123/org/cooperari/feature/atomic/package-use.html
+Done: 442 transfers in 35 ms (12628.57 transfers/s)
+171 visits left
+447 visits done
+T0 http://localhost:8123/org/cooperari/errors/package-summary.html
+Done: 441 transfers in 36 ms (12250.00 transfers/s)
+170 visits left
+448 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/package-summary.html
+Done: 446 transfers in 4 ms (111500.00 transfers/s)
+170 visits left
+449 visits done
+T2 http://localhost:8123/org/cooperari/feature/package-summary.html
+Done: 447 transfers in 6 ms (74500.00 transfers/s)
+169 visits left
+450 visits done
+T0 http://localhost:8123/org/cooperari/feature/atomic/package-summary.html
+Done: 449 transfers in 6 ms (74833.33 transfers/s)
+169 visits left
+451 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/package-use.html
+Done: 451 transfers in 5 ms (90200.00 transfers/s)
+169 visits left
+452 visits done
+T2 http://localhost:8123/org/cooperari/feature/hotspots/package-summary.html
+Done: 444 transfers in 40 ms (11100.00 transfers/s)
+168 visits left
+453 visits done
+T1 http://localhost:8123/org/cooperari/core/package-use.html
+Done: 452 transfers in 5 ms (90400.00 transfers/s)
+167 visits left
+454 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/package-summary.html
+Done: 454 transfers in 6 ms (75666.67 transfers/s)
+167 visits left
+455 visits done
+T2 http://localhost:8123/org/cooperari/feature/threadrunner/package-use.html
+Done: 448 transfers in 38 ms (11789.47 transfers/s)
+166 visits left
+456 visits done
+T3 http://localhost:8123/org/cooperari/feature/package-use.html
+Done: 450 transfers in 35 ms (12857.14 transfers/s)
+165 visits left
+457 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots/package-use.html
+Done: 456 transfers in 7 ms (65142.86 transfers/s)
+164 visits left
+458 visits done
+T3 http://localhost:8123/org/cooperari/feature/threadrunner/package-summary.html
+Done: 458 transfers in 4 ms (114500.00 transfers/s)
+164 visits left
+459 visits done
+T3 http://localhost:8123/org/cooperari/feature/unsafe/package-summary.html
+Done: 453 transfers in 36 ms (12583.33 transfers/s)
+163 visits left
+460 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/package-use.html
+Done: 459 transfers in 5 ms (91800.00 transfers/s)
+163 visits left
+461 visits done
+T3 http://localhost:8123/org/cooperari/junit/package-use.html
+Done: 460 transfers in 6 ms (76666.67 transfers/s)
+162 visits left
+462 visits done
+T1 http://localhost:8123/org/cooperari/junit/package-summary.html
+Done: 462 transfers in 4 ms (115500.00 transfers/s)
+162 visits left
+463 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/package-use.html
+Done: 455 transfers in 39 ms (11666.67 transfers/s)
+161 visits left
+464 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/package-summary.html
+Done: 464 transfers in 5 ms (92800.00 transfers/s)
+161 visits left
+465 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/package-use.html
+Done: 461 transfers in 29 ms (15896.55 transfers/s)
+160 visits left
+466 visits done
+T3 http://localhost:8123/org/cooperari/errors/package-use.html
+Done: 463 transfers in 27 ms (17148.15 transfers/s)
+159 visits left
+467 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/package-summary.html
+Done: 465 transfers in 26 ms (17884.62 transfers/s)
+158 visits left
+468 visits done
+T2 http://localhost:8123/org/cooperari/config/package-tree.html
+Done: 468 transfers in 4 ms (117000.00 transfers/s)
+157 visits left
+469 visits done
+T2 http://localhost:8123/org/cooperari/core/aspectj/package-tree.html
+Done: 469 transfers in 5 ms (93800.00 transfers/s)
+156 visits left
+470 visits done
+T2 http://localhost:8123/org/cooperari/core/util/package-tree.html
+Done: 470 transfers in 5 ms (94000.00 transfers/s)
+155 visits left
+471 visits done
+T2 http://localhost:8123/org/cooperari/feature/package-tree.html
+Done: 471 transfers in 4 ms (117750.00 transfers/s)
+154 visits left
+472 visits done
+T2 http://localhost:8123/org/cooperari/errors/package-tree.html
+Done: 466 transfers in 32 ms (14562.50 transfers/s)
+153 visits left
+473 visits done
+T3 http://localhost:8123/org/cooperari/core/package-tree.html
+Done: 472 transfers in 5 ms (94400.00 transfers/s)
+152 visits left
+474 visits done
+T2 http://localhost:8123/org/cooperari/feature/atomic/package-tree.html
+Done: 473 transfers in 3 ms (157666.67 transfers/s)
+151 visits left
+475 visits done
+T3 http://localhost:8123/org/cooperari/feature/data/package-tree.html
+Done: 467 transfers in 32 ms (14593.75 transfers/s)
+150 visits left
+476 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/package-tree.html
+Done: 475 transfers in 5 ms (95000.00 transfers/s)
+149 visits left
+477 visits done
+T3 http://localhost:8123/org/cooperari/feature/threadrunner/package-tree.html
+Done: 477 transfers in 5 ms (95400.00 transfers/s)
+148 visits left
+478 visits done
+T3 http://localhost:8123/org/cooperari/junit/package-tree.html
+Done: 478 transfers in 4 ms (119500.00 transfers/s)
+147 visits left
+479 visits done
+T3 http://localhost:8123/org/cooperari/feature/package-frame.html
+Done: 479 transfers in 3 ms (159666.67 transfers/s)
+146 visits left
+480 visits done
+T3 http://localhost:8123/org/cooperari/feature/unsafe/package-frame.html
+Done: 480 transfers in 4 ms (120000.00 transfers/s)
+145 visits left
+481 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/ACustomYieldPoint.html
+Done: 481 transfers in 4 ms (120250.00 transfers/s)
+144 visits left
+482 visits done
+T3 http://localhost:8123/org/cooperari/core/aspectj/class-use/AgentFacade.html
+Done: 482 transfers in 5 ms (96400.00 transfers/s)
+143 visits left
+483 visits done
+T3 http://localhost:8123/org/cooperari/core/util/class-use/AgentLoader.html
+Done: 474 transfers in 34 ms (13941.18 transfers/s)
+142 visits left
+484 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/package-tree.html
+Done: 483 transfers in 6 ms (80500.00 transfers/s)
+141 visits left
+485 visits done
+T3 http://localhost:8123/org/cooperari/core/aspectj/class-use/AspectCompiler.html
+Done: 476 transfers in 37 ms (12864.86 transfers/s)
+140 visits left
+486 visits done
+T1 http://localhost:8123/org/cooperari/feature/unsafe/package-tree.html
+Done: 484 transfers in 7 ms (69142.86 transfers/s)
+139 visits left
+487 visits done
+T2 http://localhost:8123/org/cooperari/core/aspectj/class-use/CAgent.html
+Done: 485 transfers in 6 ms (80833.33 transfers/s)
+138 visits left
+488 visits done
+Done: 457 transfers in 122 ms (3745.90 transfers/s)
+138 visits left
+488 visits done
+T3 http://localhost:8123/org/cooperari/feature/class-use/CAllFeatures.html
+T0 http://localhost:8123/org/cooperari/feature/unsafe/package-use.html
+Done: 486 transfers in 12 ms (40500.00 transfers/s)
+136 visits left
+490 visits done
+T1 http://localhost:8123/org/cooperari/config/class-use/CAlways.html
+Done: 489 transfers in 11 ms (44454.55 transfers/s)
+135 visits left
+491 visits done
+T0 http://localhost:8123/org/cooperari/config/class-use/CBaseConfiguration.html
+Done: 488 transfers in 12 ms (40666.67 transfers/s)
+134 visits left
+492 visits done
+T3 http://localhost:8123/org/cooperari/feature/atomic/class-use/CAtomicObjectsFeature.html
+Done: 490 transfers in 8 ms (61250.00 transfers/s)
+133 visits left
+493 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/CBlockingOperationEvent.html
+Done: 491 transfers in 5 ms (98200.00 transfers/s)
+132 visits left
+494 visits done
+T0 http://localhost:8123/org/cooperari/junit/class-use/CCooperativeOnly.html
+Done: 492 transfers in 5 ms (98400.00 transfers/s)
+131 visits left
+495 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CConfiguration.html
+Done: 493 transfers in 5 ms (98600.00 transfers/s)
+130 visits left
+496 visits done
+T1 http://localhost:8123/org/cooperari/errors/class-use/CCheckedExceptionError.html
+Done: 487 transfers in 39 ms (12487.18 transfers/s)
+129 visits left
+497 visits done
+T2 http://localhost:8123/org/cooperari/class-use/CArray.html
+Done: 494 transfers in 31 ms (15935.48 transfers/s)
+128 visits left
+498 visits done
+T0 http://localhost:8123/org/cooperari/errors/class-use/CConfigurationError.html
+Done: 495 transfers in 31 ms (15967.74 transfers/s)
+127 visits left
+499 visits done
+T3 http://localhost:8123/org/cooperari/class-use/CCoverage.html
+Done: 498 transfers in 4 ms (124500.00 transfers/s)
+126 visits left
+500 visits done
+T0 http://localhost:8123/org/cooperari/feature/data/class-use/CDataAccessFeature.html
+Done: 499 transfers in 5 ms (99800.00 transfers/s)
+125 visits left
+501 visits done
+T3 http://localhost:8123/org/cooperari/config/class-use/CGenerateCoverageReports.html
+Done: 496 transfers in 33 ms (15030.30 transfers/s)
+124 visits left
+502 visits done
+T1 http://localhost:8123/org/cooperari/config/class-use/CDetectResourceDeadlocks.html
+Done: 502 transfers in 5 ms (100400.00 transfers/s)
+123 visits left
+503 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/CEngine.html
+Done: 503 transfers in 5 ms (100600.00 transfers/s)
+122 visits left
+504 visits done
+T1 http://localhost:8123/org/cooperari/errors/class-use/CHotspotError.html
+Done: 504 transfers in 5 ms (100800.00 transfers/s)
+121 visits left
+505 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/class-use/CGroupProgramState.html
+Done: 505 transfers in 5 ms (101000.00 transfers/s)
+120 visits left
+506 visits done
+T1 http://localhost:8123/org/cooperari/feature/hotspots/class-use/CHotspotFeature.html
+Done: 497 transfers in 38 ms (13078.95 transfers/s)
+119 visits left
+507 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CCoverageLog.html
+Done: 507 transfers in 5 ms (101400.00 transfers/s)
+118 visits left
+508 visits done
+T2 http://localhost:8123/org/cooperari/junit/class-use/CJUnitRunner.html
+Done: 508 transfers in 5 ms (101600.00 transfers/s)
+117 visits left
+509 visits done
+T2 http://localhost:8123/org/cooperari/errors/class-use/CInternalError.html
+Done: 501 transfers in 42 ms (11928.57 transfers/s)
+Done: 500 transfers in 43 ms (11627.91 transfers/s)
+116 visits left
+116 visits left
+510 visits done
+510 visits done
+T0 http://localhost:8123/org/cooperari/feature/class-use/CFeature.html
+T3 http://localhost:8123/org/cooperari/errors/class-use/CError.html
+Done: 511 transfers in 7 ms (73000.00 transfers/s)
+114 visits left
+512 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use/CMonitorFeature.html
+Done: 510 transfers in 8 ms (63750.00 transfers/s)
+113 visits left
+513 visits done
+T0 http://localhost:8123/org/cooperari/config/class-use/CMaxTrials.html
+Done: 512 transfers in 7 ms (73142.86 transfers/s)
+112 visits left
+514 visits done
+T3 http://localhost:8123/org/cooperari/errors/class-use/CMultipleExceptionsError.html
+Done: 513 transfers in 9 ms (57000.00 transfers/s)
+111 visits left
+515 visits done
+T0 http://localhost:8123/org/cooperari/config/class-use/CNever.html
+Done: 514 transfers in 8 ms (64250.00 transfers/s)
+110 visits left
+516 visits done
+T3 http://localhost:8123/org/cooperari/errors/class-use/CNonCooperativeModeError.html
+Done: 515 transfers in 7 ms (73571.43 transfers/s)
+109 visits left
+517 visits done
+T0 http://localhost:8123/org/cooperari/junit/class-use/CPreemptiveOnly.html
+Done: 506 transfers in 51 ms (9921.57 transfers/s)
+108 visits left
+518 visits done
+T1 http://localhost:8123/org/cooperari/config/class-use/CInstrument.html
+Done: 518 transfers in 7 ms (74000.00 transfers/s)
+107 visits left
+519 visits done
+T1 http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramStateFactory.html
+Done: 509 transfers in 57 ms (8929.82 transfers/s)
+106 visits left
+520 visits done
+T2 http://localhost:8123/org/cooperari/core/util/class-use/CLog.html
+Done: 520 transfers in 7 ms (74285.71 transfers/s)
+105 visits left
+521 visits done
+T2 http://localhost:8123/org/cooperari/errors/class-use/CRaceError.html
+Done: 521 transfers in 7 ms (74428.57 transfers/s)
+104 visits left
+522 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/class-use/CRawProgramState.html
+Done: 522 transfers in 11 ms (47454.55 transfers/s)
+103 visits left
+523 visits done
+T2 http://localhost:8123/org/cooperari/core/util/class-use/CRawTuple.html
+Done: 517 transfers in 59 ms (8762.71 transfers/s)
+102 visits left
+524 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/CProgramState.CElement.html
+Done: 523 transfers in 10 ms (52300.00 transfers/s)
+101 visits left
+525 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/class-use/CResourceDeadlockError.html
+Done: 516 transfers in 62 ms (8322.58 transfers/s)
+100 visits left
+526 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/COperation.html
+Done: 526 transfers in 9 ms (58444.44 transfers/s)
+99 visits left
+527 visits done
+T3 http://localhost:8123/org/cooperari/config/class-use/CScheduling.html
+Done: 519 transfers in 65 ms (7984.62 transfers/s)
+98 visits left
+528 visits done
+T1 http://localhost:8123/org/cooperari/config/class-use/CRaceDetection.html
+Done: 527 transfers in 9 ms (58555.56 transfers/s)
+97 visits left
+529 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/class-use/CSchedulerFactory.html
+Done: 529 transfers in 8 ms (66125.00 transfers/s)
+Done: 528 transfers in 8 ms (66000.00 transfers/s)
+96 visits left
+530 visits done
+96 visits left
+T1 http://localhost:8123/org/cooperari/core/class-use/CSession.html
+530 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CSession.ExecutionHandler.html
+Done: 530 transfers in 9 ms (58888.89 transfers/s)
+94 visits left
+532 visits done
+T1 http://localhost:8123/org/cooperari/config/class-use/CSometimes.html
+Done: 531 transfers in 11 ms (48272.73 transfers/s)
+93 visits left
+533 visits done
+T3 http://localhost:8123/org/cooperari/feature/unsafe/class-use/CSunMiscUnsafeFeature.html
+Done: 524 transfers in 56 ms (9357.14 transfers/s)
+92 visits left
+534 visits done
+T0 http://localhost:8123/org/cooperari/core/util/class-use/CReport.html
+Done: 525 transfers in 57 ms (9210.53 transfers/s)
+91 visits left
+535 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CRuntime.html
+Done: 535 transfers in 9 ms (59444.44 transfers/s)
+90 visits left
+536 visits done
+T2 http://localhost:8123/org/cooperari/junit/class-use/CTestResultPool.html
+Done: 536 transfers in 5 ms (107200.00 transfers/s)
+89 visits left
+537 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread/class-use/CThreadFeature.html
+Done: 537 transfers in 7 ms (76714.29 transfers/s)
+88 visits left
+538 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CThreadMappings.html
+Done: 532 transfers in 50 ms (10640.00 transfers/s)
+87 visits left
+539 visits done
+T1 http://localhost:8123/org/cooperari/class-use/CTest.html
+Done: 533 transfers in 49 ms (10877.55 transfers/s)
+86 visits left
+540 visits done
+T3 http://localhost:8123/org/cooperari/class-use/CTestResult.html
+Done: 539 transfers in 7 ms (77000.00 transfers/s)
+85 visits left
+541 visits done
+T1 http://localhost:8123/org/cooperari/feature/threadrunner/class-use/CThreadRunnerFeature.html
+Done: 541 transfers in 8 ms (67625.00 transfers/s)
+84 visits left
+542 visits done
+T1 http://localhost:8123/org/cooperari/config/class-use/CTimeLimit.html
+Done: 534 transfers in 53 ms (10075.47 transfers/s)
+83 visits left
+543 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/CThreadHandle.html
+Done: 538 transfers in 44 ms (12227.27 transfers/s)
+82 visits left
+544 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/class-use/CThreadLocation.html
+Done: 540 transfers in 46 ms (11739.13 transfers/s)
+81 visits left
+545 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CThread.html
+Done: 542 transfers in 34 ms (15941.18 transfers/s)
+80 visits left
+546 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/CThreadState.html
+Done: 545 transfers in 5 ms (109000.00 transfers/s)
+79 visits left
+547 visits done
+T3 http://localhost:8123/org/cooperari/config/class-use/CTraceOptions.html
+Done: 546 transfers in 6 ms (91000.00 transfers/s)
+78 visits left
+548 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/CUncaughtExceptionHandler.html
+Done: 547 transfers in 7 ms (78142.86 transfers/s)
+77 visits left
+549 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/CurrentThread.html
+Done: 543 transfers in 39 ms (13923.08 transfers/s)
+76 visits left
+550 visits done
+T0 http://localhost:8123/org/cooperari/core/class-use/CTrace.html
+Done: 549 transfers in 6 ms (91500.00 transfers/s)
+75 visits left
+551 visits done
+T3 http://localhost:8123/org/cooperari/core/class-use/CustomYieldPointOperation.html
+Done: 550 transfers in 5 ms (110000.00 transfers/s)
+74 visits left
+552 visits done
+T0 http://localhost:8123/org/cooperari/class-use/CVersion.html
+Done: 544 transfers in 41 ms (13268.29 transfers/s)
+73 visits left
+553 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CTrace.EventType.html
+Done: 553 transfers in 5 ms (110600.00 transfers/s)
+72 visits left
+554 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CWorkspace.html
+Done: 554 transfers in 4 ms (138500.00 transfers/s)
+71 visits left
+555 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CYieldPointImpl.html
+Done: 548 transfers in 37 ms (14810.81 transfers/s)
+70 visits left
+556 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use/CustomYieldPoint.html
+Done: 556 transfers in 5 ms (111200.00 transfers/s)
+Done: 551 transfers in 33 ms (16696.97 transfers/s)
+69 visits left
+557 visits done
+69 visits left
+557 visits done
+Done: 552 transfers in 33 ms (16727.27 transfers/s)
+69 visits left
+557 visits done
+T3 http://localhost:8123/org/cooperari/errors/class-use/CWaitDeadlockError.html
+T0 http://localhost:8123/org/cooperari/core/scheduling/class-use/CYieldPoint.html
+T1 http://localhost:8123/org/cooperari/feature/data/class-use/DataOperation.html
+Done: 559 transfers in 6 ms (93166.67 transfers/s)
+66 visits left
+560 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/class-use/GetState.html
+Done: 558 transfers in 6 ms (93000.00 transfers/s)
+65 visits left
+561 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/class-use/Exit.html
+Done: 557 transfers in 7 ms (79571.43 transfers/s)
+64 visits left
+562 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use/Enter.html
+Done: 562 transfers in 6 ms (93666.67 transfers/s)
+Done: 560 transfers in 7 ms (80000.00 transfers/s)
+63 visits left
+563 visits done
+63 visits left
+563 visits done
+T1 http://localhost:8123/org/cooperari/feature/hotspots/class-use/HotspotHandler.html
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/Interrupt.html
+Done: 561 transfers in 6 ms (93500.00 transfers/s)
+61 visits left
+565 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots/class-use/HotspotOperation.html
+Done: 565 transfers in 7 ms (80714.29 transfers/s)
+60 visits left
+566 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/class-use/IsInterrupted.html
+Done: 564 transfers in 8 ms (70500.00 transfers/s)
+59 visits left
+567 visits done
+Done: 563 transfers in 8 ms (70375.00 transfers/s)
+59 visits left
+567 visits done
+T3 http://localhost:8123/org/cooperari/core/util/class-use/IO.html
+T1 http://localhost:8123/org/cooperari/feature/thread/class-use/Interrupted.html
+Done: 566 transfers in 5 ms (113200.00 transfers/s)
+57 visits left
+569 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/class-use/Join.html
+Done: 555 transfers in 42 ms (13214.29 transfers/s)
+56 visits left
+570 visits done
+T2 http://localhost:8123/org/cooperari/core/class-use/CWorkspace.Option.html
+Done: 570 transfers in 6 ms (95000.00 transfers/s)
+55 visits left
+571 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/class-use/MonitorPool.html
+Done: 571 transfers in 5 ms (114200.00 transfers/s)
+54 visits left
+572 visits done
+T2 http://localhost:8123/org/cooperari/feature/monitor/class-use/Notify.html
+Done: 572 transfers in 5 ms (114400.00 transfers/s)
+53 visits left
+573 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/class-use/Oblitus.html
+Done: 573 transfers in 5 ms (114600.00 transfers/s)
+52 visits left
+574 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/class-use/Read.html
+Done: 567 transfers in 36 ms (15750.00 transfers/s)
+51 visits left
+575 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/class-use/Memini.html
+Done: 568 transfers in 41 ms (13853.66 transfers/s)
+50 visits left
+576 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/class-use/Monitor.html
+Done: 575 transfers in 6 ms (95833.33 transfers/s)
+49 visits left
+577 visits done
+T3 http://localhost:8123/org/cooperari/feature/data/class-use/RaceDetector.html
+Done: 569 transfers in 38 ms (14973.68 transfers/s)
+48 visits left
+578 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/class-use/MonitorOperation.html
+Done: 576 transfers in 5 ms (115200.00 transfers/s)
+Done: 577 transfers in 5 ms (115400.00 transfers/s)
+47 visits left
+579 visits done
+47 visits left
+579 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/Sleep.html
+T1 http://localhost:8123/org/cooperari/core/util/class-use/ResourceGraph.html
+Done: 578 transfers in 5 ms (115600.00 transfers/s)
+45 visits left
+581 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/class-use/SpuriousWakeup.html
+Done: 579 transfers in 4 ms (144750.00 transfers/s)
+Done: 580 transfers in 4 ms (145000.00 transfers/s)
+44 visits left
+582 visits done
+44 visits left
+582 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/class-use/Stop.html
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/Start.html
+Done: 581 transfers in 4 ms (145250.00 transfers/s)
+42 visits left
+584 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/class-use/ThreadHoldsLock.html
+Done: 583 transfers in 7 ms (83285.71 transfers/s)
+Done: 582 transfers in 7 ms (83142.86 transfers/s)
+41 visits left
+585 visits done
+41 visits left
+585 visits done
+T1 http://localhost:8123/org/cooperari/feature/threadrunner/class-use/ThreadRunnerOperation.html
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use/Wait.html
+Done: 584 transfers in 8 ms (73000.00 transfers/s)
+39 visits left
+587 visits done
+T0 http://localhost:8123/org/cooperari/feature/data/class-use/Write.html
+Done: 585 transfers in 7 ms (83571.43 transfers/s)
+Done: 586 transfers in 7 ms (83714.29 transfers/s)
+38 visits left
+588 visits done
+38 visits left
+588 visits done
+T3 http://localhost:8123/org/cooperari/core/aspectj/class-use/WeavingConfiguration.html
+T1 http://localhost:8123/org/cooperari/core/util/class-use/UnsafeVMOperations.html
+Done: 587 transfers in 8 ms (73375.00 transfers/s)
+36 visits left
+590 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/class-use/Yield.html
+Done: 588 transfers in 7 ms (84000.00 transfers/s)
+35 visits left
+591 visits done
+T3 http://localhost:8123/org/cooperari/feature/hotspots/class-use/YieldPoints.html
+Done: 589 transfers in 9 ms (65444.44 transfers/s)
+Done: 574 transfers in 45 ms (12755.56 transfers/s)
+34 visits left
+592 visits done
+34 visits left
+592 visits done
+T1 http://localhost:8123/org/cooperari/feature/data/class-use/YieldPoints.html
+T2 http://localhost:8123/org/cooperari/feature/monitor/class-use/NotifyAll.html
+Done: 590 transfers in 10 ms (59000.00 transfers/s)
+32 visits left
+594 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor/class-use/YieldPoints.html
+Done: 591 transfers in 7 ms (84428.57 transfers/s)
+31 visits left
+595 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread/class-use/YieldPoints.html
+Done: 592 transfers in 7 ms (84571.43 transfers/s)
+30 visits left
+596 visits done
+T1 http://localhost:8123/org/cooperari/feature/threadrunner/class-use/YieldPoints.html
+Done: 593 transfers in 10 ms (59300.00 transfers/s)
+29 visits left
+597 visits done
+T2 http://localhost:8123/org/cooperari/class-use
+Done: 594 transfers in 18 ms (33000.00 transfers/s)
+29 visits left
+598 visits done
+T0 http://localhost:8123/org/cooperari/config
+Done: 595 transfers in 18 ms (33055.56 transfers/s)
+28 visits left
+599 visits done
+T3 http://localhost:8123/org/cooperari/config/class-use
+Done: 596 transfers in 19 ms (31368.42 transfers/s)
+27 visits left
+600 visits done
+T1 http://localhost:8123/org/cooperari/errors
+Done: 597 transfers in 20 ms (29850.00 transfers/s)
+26 visits left
+601 visits done
+T2 http://localhost:8123/org/cooperari/errors/class-use
+Done: 598 transfers in 13 ms (46000.00 transfers/s)
+27 visits left
+602 visits done
+T0 http://localhost:8123/org/cooperari/feature
+Done: 600 transfers in 13 ms (46153.85 transfers/s)
+26 visits left
+603 visits done
+T1 http://localhost:8123/org/cooperari/feature/class-use
+Done: 601 transfers in 12 ms (50083.33 transfers/s)
+26 visits left
+604 visits done
+T2 http://localhost:8123/org/cooperari/feature/data
+Done: 599 transfers in 19 ms (31526.32 transfers/s)
+26 visits left
+605 visits done
+T3 http://localhost:8123/org/cooperari/feature/atomic
+Done: 603 transfers in 15 ms (40200.00 transfers/s)
+27 visits left
+606 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor
+Done: 605 transfers in 12 ms (50416.67 transfers/s)
+27 visits left
+607 visits done
+T3 http://localhost:8123/org/cooperari/feature/threadrunner
+Done: 602 transfers in 24 ms (25083.33 transfers/s)
+28 visits left
+608 visits done
+T0 http://localhost:8123/org/cooperari/feature/hotspots
+Done: 606 transfers in 11 ms (55090.91 transfers/s)
+29 visits left
+609 visits done
+T1 http://localhost:8123/org/cooperari/feature/unsafe
+Done: 607 transfers in 11 ms (55181.82 transfers/s)
+29 visits left
+610 visits done
+T3 http://localhost:8123/org/cooperari/junit
+Done: 604 transfers in 27 ms (22370.37 transfers/s)
+30 visits left
+611 visits done
+T2 http://localhost:8123/org/cooperari/feature/thread
+Done: 608 transfers in 11 ms (55272.73 transfers/s)
+29 visits left
+612 visits done
+T0 http://localhost:8123/org/cooperari/junit/class-use
+Done: 609 transfers in 16 ms (38062.50 transfers/s)
+29 visits left
+613 visits done
+T1 http://localhost:8123/org/cooperari/core/aspectj
+Done: 612 transfers in 15 ms (40800.00 transfers/s)
+Done: 610 transfers in 17 ms (35882.35 transfers/s)
+31 visits left
+31 visits left
+614 visits done
+614 visits done
+T0 http://localhost:8123/org/cooperari/core/util
+T3 http://localhost:8123/org/cooperari/core/class-use
+Done: 614 transfers in 8 ms (76750.00 transfers/s)
+29 visits left
+616 visits done
+T0 http://localhost:8123/org/cooperari/core/aspectj/package-use.html
+Done: 611 transfers in 26 ms (23500.00 transfers/s)
+30 visits left
+617 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling
+Done: 617 transfers in 4 ms (154250.00 transfers/s)
+29 visits left
+Done: 616 transfers in 7 ms (88000.00 transfers/s)
+29 visits left
+618 visits done
+618 visits done
+T0 http://localhost:8123/org/cooperari/core/util/package-use.html
+T2 http://localhost:8123/org/cooperari/feature/atomic/package-use.html
+Done: 619 transfers in 5 ms (123800.00 transfers/s)
+27 visits left
+620 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/package-use.html
+Done: 613 transfers in 40 ms (15325.00 transfers/s)
+Done: 615 transfers in 38 ms (16184.21 transfers/s)
+26 visits left
+621 visits done
+26 visits left
+621 visits done
+T3 http://localhost:8123/org/cooperari/config/package-use.html
+T1 http://localhost:8123/org/cooperari/package-use.html
+Done: 621 transfers in 4 ms (155250.00 transfers/s)
+24 visits left
+623 visits done
+T3 http://localhost:8123/org/cooperari/feature/threadrunner/package-use.html
+Done: 623 transfers in 6 ms (103833.33 transfers/s)
+23 visits left
+624 visits done
+T3 http://localhost:8123/org/cooperari/junit/package-use.html
+Done: 620 transfers in 33 ms (18787.88 transfers/s)
+Done: 618 transfers in 38 ms (16263.16 transfers/s)
+22 visits left
+625 visits done
+22 visits left
+625 visits done
+T0 http://localhost:8123/org/cooperari/feature/package-use.html
+Done: 624 transfers in 5 ms (124800.00 transfers/s)
+T2 http://localhost:8123/org/cooperari/feature/hotspots/package-use.html
+21 visits left
+627 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/package-use.html
+Done: 625 transfers in 6 ms (104166.67 transfers/s)
+19 visits left
+628 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/package-use.html
+Done: 627 transfers in 8 ms (78375.00 transfers/s)
+18 visits left
+629 visits done
+Done: 626 transfers in 9 ms (69555.56 transfers/s)
+T3 http://localhost:8123/org/cooperari/feature/atomic
+18 visits left
+629 visits done
+T2 http://localhost:8123/org/cooperari/config/class-use
+Done: 628 transfers in 9 ms (69777.78 transfers/s)
+17 visits left
+631 visits done
+T0 http://localhost:8123/org/cooperari/feature/data
+Done: 629 transfers in 9 ms (69888.89 transfers/s)
+16 visits left
+632 visits done
+T3 http://localhost:8123/org/cooperari/feature/data/class-use
+Done: 631 transfers in 11 ms (57363.64 transfers/s)
+16 visits left
+633 visits done
+T0 http://localhost:8123/org/cooperari/feature/monitor
+Done: 630 transfers in 19 ms (33157.89 transfers/s)
+16 visits left
+634 visits done
+T2 http://localhost:8123/org/cooperari/feature/atomic/class-use
+Done: 622 transfers in 44 ms (14136.36 transfers/s)
+15 visits left
+635 visits done
+T1 http://localhost:8123/org/cooperari/feature/unsafe/package-use.html
+Done: 632 transfers in 11 ms (57454.55 transfers/s)
+14 visits left
+636 visits done
+T3 http://localhost:8123/org/cooperari/feature/monitor/class-use
+Done: 633 transfers in 7 ms (90428.57 transfers/s)
+Done: 635 transfers in 7 ms (90714.29 transfers/s)
+15 visits left
+637 visits done
+15 visits left
+637 visits done
+T1 http://localhost:8123/org/cooperari/feature/hotspots/class-use
+T0 http://localhost:8123/org/cooperari/feature/threadrunner/class-use
+Done: 636 transfers in 12 ms (53000.00 transfers/s)
+14 visits left
+639 visits done
+T3 http://localhost:8123/org/cooperari/feature/unsafe
+Done: 637 transfers in 10 ms (63700.00 transfers/s)
+13 visits left
+640 visits done
+T1 http://localhost:8123/org/cooperari/feature/unsafe/class-use
+Done: 638 transfers in 11 ms (58000.00 transfers/s)
+12 visits left
+641 visits done
+T0 http://localhost:8123/org/cooperari/junit/class-use
+Done: 634 transfers in 20 ms (31700.00 transfers/s)
+11 visits left
+642 visits done
+T2 http://localhost:8123/org/cooperari/feature/hotspots
+Done: 639 transfers in 10 ms (63900.00 transfers/s)
+11 visits left
+643 visits done
+T3 http://localhost:8123/org/cooperari/feature/thread
+Done: 640 transfers in 13 ms (49230.77 transfers/s)
+10 visits left
+644 visits done
+T1 http://localhost:8123/org/cooperari/feature/thread/class-use
+Done: 641 transfers in 16 ms (40062.50 transfers/s)
+10 visits left
+645 visits done
+T0 http://localhost:8123/org/cooperari/core/aspectj/class-use
+Done: 643 transfers in 13 ms (49461.54 transfers/s)
+10 visits left
+646 visits done
+T3 http://localhost:8123/org/cooperari/core/util/class-use
+Done: 642 transfers in 16 ms (40125.00 transfers/s)
+9 visits left
+647 visits done
+T2 http://localhost:8123/org/cooperari/core/util
+Done: 644 transfers in 14 ms (46000.00 transfers/s)
+8 visits left
+648 visits done
+T1 http://localhost:8123/org/cooperari/core/class-use
+Done: 647 transfers in 12 ms (53916.67 transfers/s)
+7 visits left
+649 visits done
+T2 http://localhost:8123/org/cooperari/feature/data/class-use
+Done: 645 transfers in 18 ms (35833.33 transfers/s)
+7 visits left
+650 visits done
+T0 http://localhost:8123/org/cooperari/core/scheduling
+Done: 648 transfers in 13 ms (49846.15 transfers/s)
+6 visits left
+651 visits done
+T1 http://localhost:8123/org/cooperari/feature/monitor/class-use
+Done: 649 transfers in 13 ms (49923.08 transfers/s)
+5 visits left
+652 visits done
+T2 http://localhost:8123/org/cooperari/feature/atomic/class-use
+Done: 650 transfers in 11 ms (59090.91 transfers/s)
+4 visits left
+653 visits done
+T0 http://localhost:8123/org/cooperari/feature/threadrunner/class-use
+Done: 646 transfers in 29 ms (22275.86 transfers/s)
+3 visits left
+654 visits done
+T3 http://localhost:8123/org/cooperari/core/scheduling/class-use
+Done: 651 transfers in 12 ms (54250.00 transfers/s)
+2 visits left
+655 visits done
+T1 http://localhost:8123/org/cooperari/feature/hotspots/class-use
+Done: 652 transfers in 11 ms (59272.73 transfers/s)
+1 visits left
+656 visits done
+T2 http://localhost:8123/org/cooperari/feature/unsafe/class-use
+Done: 653 transfers in 10 ms (65300.00 transfers/s)
+0 visits left
+657 visits done
+T0 http://localhost:8123/org/cooperari/feature/thread/class-use
+Done: 654 transfers in 13 ms (50307.69 transfers/s)
+0 visits left
+657 visits done
+T3 http://localhost:8123/org/cooperari/core/aspectj/class-use
+Done: 655 transfers in 13 ms (50384.62 transfers/s)
+T0 end !!! 
+0 visits left
+657 visits done
+T3 end !!! 
+T1 http://localhost:8123/org/cooperari/core/util/class-use
+T1 end !!! 
+Done: 656 transfers in 11 ms (59636.36 transfers/s)
+0 visits left
+657 visits done
+T2 http://localhost:8123/org/cooperari/core/scheduling/class-use
+T2 end !!! 
