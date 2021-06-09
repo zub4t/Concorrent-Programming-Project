@@ -4,8 +4,6 @@ import java.io.File;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import pc.set.ISet;
@@ -45,21 +43,13 @@ public class ConcurrentCrawler extends BaseCrawler {
 
     log("Starting at %s", root);
     toVisit.push(root);
+    seen.add(root);
     Thread[] runners = new Thread[numberOfThreads];
     for (int i = 0; i < this.numberOfThreads; i++) {
       runners[i] = new Thread(new Runner());
       runners[i].setName("T" + i);
       runners[i].start();
     }
-    /*
-     * new Thread(new Runnable() {
-     * 
-     * @Override public void run() { while (true) for (int i = 0; i <
-     * numberOfThreads; i++) { // System.out.println(runners[i].getName() + " is " +
-     * runners[i].getState());
-     * 
-     * } } }).start();
-     */
     for (int i = 0; i < this.numberOfThreads; i++) {
       try {
         runners[i].join();
@@ -67,7 +57,7 @@ public class ConcurrentCrawler extends BaseCrawler {
         e.printStackTrace();
       }
     }
-
+    System.out.println(rid.decrementAndGet() + " visits done");
   }
 
   private class Runner implements Runnable {
@@ -80,25 +70,19 @@ public class ConcurrentCrawler extends BaseCrawler {
           long t = System.currentTimeMillis();
           URL url = null;
           url = toVisit.pop();
-          seen.add(url);
-
           int lrid = rid.getAndIncrement();
           File htmlContents = download(lrid, url);
           if (htmlContents != null) {
             ArrayList<URL> links = parseLinks(url, htmlContents);
-            synchronized (this) {
-              for (URL newURL : links) {
-                if (!seen.contains(newURL) && !toVisit.contains(newURL)) {
-                  toVisit.push(newURL);
-                }
+
+            for (URL newURL : links) {
+              if (seen.add(newURL)) {
+                toVisit.push(newURL);
               }
             }
 
             t = System.currentTimeMillis() - t;
-            System.out.printf("Done: %d transfers in %d ms (%.2f transfers/s)%n", lrid, t, (1e+03 * lrid) / t);
-          //  System.out.println(toVisit.size() + " visits left");
-        // System.out.println(seen.size() + " visits done");
-            System.out.println(Thread.currentThread().getName() + " " + url);
+          //  System.out.printf("Done: %d transfers in %d ms (%.2f transfers/s)%n", lrid, t, (1e+03 * lrid) / t);
 
           }
         } catch (Exception e) {

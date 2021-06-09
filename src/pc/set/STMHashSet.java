@@ -6,7 +6,7 @@ import scala.concurrent.stm.japi.STM;
 
 /**
  * 
- * Non-concurrent hash set implementation.
+ * 
  *
  */
 public class STMHashSet<E> implements ISet<E> {
